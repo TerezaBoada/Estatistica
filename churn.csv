@@ -1,0 +1,1478 @@
+ID,londdist,International,local,pagamento,tipo_fatura,plano,idade,sexo,estado_civil,n_filhos,salario,carro,churn
+0,5.246,7.515,86.328,conta_corrente,boleto,padrao,57,F,M,2,27535.3,Y,Vol
+3,0.000,0.000,3.942,cartao_credito,via_email,desconto internacional,50,F,S,2,64632.3,N,InVol
+4,5.556,0.000,9.363,cartao_credito,via_email,desconto internacional,68,F,M,2,81000.9,N,Vol
+8,14.019,5.680,29.807,cartao_credito,via_email,padrao,34,M,S,0,87467.1,Y,atuais
+10,13.664,2.956,32.638,cartao_credito,boleto,desconto internacional,60,M,M,2,83220.6,N,Vol
+11,0.000,0.000,1.413,cartao_credito,boleto,padrao,84,F,S,0,50290.7,N,InVol
+13,0.281,0.000,8.537,conta_corrente,via_email,desconto internacional,28,F,M,2,20850.4,N,Vol
+17,1.577,0.000,19.981,cartao_credito,boleto,padrao,52,M,S,0,84112.6,N,Current
+19,11.031,0.000,34.278,cartao_credito,via_email,padrao,87,F,S,2,3776.12,N,Vol
+20,0.453,0.000,73.012,debito em conta,boleto,padrao,88,F,M,2,73865.9,Y,Vol
+22,3.729,0.000,18.847,debito em conta,boleto,padrao,76,M,M,2,30933.6,Y,Current
+23,20.295,0.000,76.052,cartao_credito,boleto,padrao,76,F,M,1,12309.6,N,Vol
+26,10.370,2.153,24.668,conta_corrente,boleto,padrao,87,M,S,0,69864,N,Vol
+28,20.269,0.000,102.864,conta_corrente,via_email,desconto internacional,90,F,M,0,91620.6,N,Current
+30,25.528,0.747,5.186,cartao_credito,via_email,padrao,62,M,S,0,96501.9,Y,Current
+31,26.495,0.000,31.085,cartao_credito,boleto,desconto internacional,81,M,S,1,3968.54,N,Current
+32,8.082,0.000,10.586,conta_corrente,via_email,padrao,50,F,M,2,13774.2,N,Vol
+33,2.946,0.261,77.238,conta_corrente,boleto,padrao,48,M,S,2,39428.2,N,Current
+40,24.346,0.000,62.826,cartao_credito,via_email,padrao,37,F,S,2,4988.14,N,Current
+42,8.865,4.437,43.644,conta_corrente,via_email,desconto internacional,55,M,S,2,85753.8,N,Vol
+49,26.862,0.000,15.492,cartao_credito,boleto,desconto internacional,21,M,M,2,23564.1,N,Vol
+55,17.209,8.942,138.045,cartao_credito,boleto,desconto internacional,42,M,S,0,37661,N,Current
+59,24.578,0.000,80.747,debito em conta,boleto,padrao,71,M,M,2,99064,N,Current
+64,21.502,0.000,47.220,cartao_credito,boleto,padrao,94,F,M,0,87251.8,Y,Vol
+65,9.703,1.203,12.182,cartao_credito,via_email,padrao,33,F,M,0,2974.76,Y,Vol
+69,0.000,0.000,4.620,cartao_credito,boleto,padrao,21,M,S,0,23893.9,N,InVol
+71,0.000,0.000,2.362,cartao_credito,via_email,padrao,81,M,M,0,23289.7,N,InVol
+72,27.332,0.000,23.860,debito em conta,boleto,desconto internacional,86,F,S,2,92885.9,N,Current
+73,6.671,0.000,77.252,debito em conta,boleto,padrao,54,M,M,2,11676.2,N,Current
+78,13.644,0.000,19.546,debito em conta,boleto,padrao,19,F,M,0,27842.1,N,Vol
+80,20.569,3.274,23.342,cartao_credito,via_email,padrao,18,F,M,1,9925.68,N,Vol
+83,0.000,0.000,0.353,cartao_credito,via_email,padrao,63,M,M,1,9049.57,N,InVol
+84,12.290,7.800,47.458,cartao_credito,via_email,padrao,75,M,M,2,17562.9,Y,Current
+89,17.413,0.000,28.130,cartao_credito,via_email,padrao,62,M,M,0,50676,N,Current
+92,4.719,0.000,57.775,debito em conta,boleto,padrao,23,F,S,2,8383.47,Y,Vol
+96,2.648,0.000,24.755,cartao_credito,via_email,padrao,57,M,M,0,28128.4,N,Current
+100,21.912,6.708,27.003,cartao_credito,via_email,desconto internacional,52,M,S,0,88413.4,Y,Vol
+101,2.422,9.187,41.166,conta_corrente,via_email,desconto internacional,48,M,S,0,81420,N,Vol
+102,16.069,1.536,130.352,cartao_credito,via_email,padrao,77,F,M,2,37155,Y,Vol
+104,8.758,0.000,112.637,cartao_credito,via_email,desconto internacional,61,M,M,1,85927.7,N,Current
+116,1.876,0.000,50.857,cartao_credito,via_email,padrao,25,F,M,0,38950.5,N,Vol
+117,18.324,5.678,31.279,cartao_credito,boleto,padrao,56,M,S,0,44143.1,N,Vol
+122,17.788,0.000,15.661,cartao_credito,via_email,padrao,45,M,M,1,39378.9,N,Current
+125,1.134,4.697,57.623,debito em conta,via_email,padrao,59,F,S,1,69454.6,Y,Vol
+130,0.000,0.000,1.066,cartao_credito,boleto,padrao,78,F,S,2,74392.1,N,Current
+137,19.191,3.618,72.745,cartao_credito,via_email,padrao,21,F,M,2,75323.4,N,Current
+144,11.271,0.000,52.739,cartao_credito,via_email,padrao,62,M,M,2,94092.6,N,Current
+145,17.847,8.795,12.613,cartao_credito,boleto,padrao,32,M,S,1,63769.7,Y,Vol
+149,8.622,0.000,8.490,conta_corrente,via_email,padrao,43,M,M,0,33935.8,Y,Current
+154,17.624,6.413,116.805,cartao_credito,boleto,padrao,32,F,M,2,18913.2,N,Vol
+155,0.746,2.932,18.903,cartao_credito,boleto,padrao,20,M,M,1,99398.1,N,Vol
+158,0.000,0.000,0.722,conta_corrente,boleto,padrao,67,F,M,0,87765.2,N,InVol
+160,4.955,0.000,30.898,conta_corrente,boleto,padrao,83,F,S,1,96112.1,Y,Vol
+170,0.000,0.000,3.092,debito em conta,boleto,desconto internacional,46,F,M,0,46734.5,N,Vol
+172,21.825,0.000,69.004,cartao_credito,boleto,padrao,66,M,S,0,80025.3,Y,Current
+173,8.494,0.000,50.034,debito em conta,via_email,padrao,42,F,S,2,49776.2,Y,Vol
+174,11.064,0.000,40.822,cartao_credito,via_email,padrao,27,M,S,2,4335.86,N,Vol
+177,16.461,0.000,57.657,cartao_credito,boleto,desconto internacional,93,F,S,0,74912.1,Y,Vol
+178,0.000,0.000,3.823,cartao_credito,boleto,desconto internacional,19,F,S,1,44566.6,Y,InVol
+179,20.700,0.000,20.056,cartao_credito,via_email,padrao,93,M,M,1,25949,N,Current
+180,26.672,0.000,71.983,cartao_credito,via_email,padrao,73,F,M,0,76660.7,N,Current
+181,14.466,0.000,69.296,cartao_credito,boleto,padrao,48,M,M,0,58764.7,Y,Current
+187,7.665,0.000,83.078,debito em conta,boleto,padrao,47,M,M,2,90070.5,N,Current
+188,25.306,0.000,51.616,cartao_credito,via_email,desconto internacional,94,F,M,2,38925.5,N,Current
+195,5.022,0.000,29.805,cartao_credito,via_email,padrao,20,M,S,2,9431.04,N,Vol
+197,21.403,0.000,14.449,conta_corrente,via_email,padrao,32,M,M,0,38038.7,Y,Current
+198,4.996,0.682,56.110,cartao_credito,via_email,desconto internacional,19,F,S,0,50290.7,N,Vol
+199,24.053,0.000,17.698,conta_corrente,boleto,padrao,78,F,S,1,88990.6,Y,Vol
+201,22.900,0.000,22.705,conta_corrente,via_email,desconto internacional,36,F,M,1,5283.2,N,Current
+202,18.885,0.000,96.298,conta_corrente,boleto,padrao,79,M,M,1,37571.1,N,Current
+206,5.357,0.000,27.143,cartao_credito,via_email,padrao,23,F,M,1,22767,Y,Vol
+208,8.713,0.000,45.641,conta_corrente,boleto,padrao,79,M,M,0,61985.6,N,Current
+216,14.705,0.000,42.141,cartao_credito,boleto,desconto internacional,27,M,M,1,23234.8,N,Current
+217,21.189,0.000,30.472,cartao_credito,boleto,padrao,81,M,M,2,20759.9,N,Current
+218,2.742,0.000,180.967,cartao_credito,via_email,padrao,54,M,M,2,93476.6,Y,Current
+222,12.931,0.000,137.136,cartao_credito,boleto,desconto internacional,29,M,M,0,20315.4,Y,Current
+229,3.744,0.000,15.129,cartao_credito,via_email,padrao,68,M,M,0,55059.2,N,Current
+230,4.022,0.000,13.641,cartao_credito,boleto,padrao,64,M,M,1,92298,N,Current
+242,0.000,0.000,3.207,debito em conta,boleto,padrao,77,M,S,2,20965.3,N,InVol
+244,24.656,0.000,38.239,cartao_credito,via_email,padrao,69,M,M,2,64113.6,Y,Current
+245,8.646,0.000,67.417,cartao_credito,via_email,desconto internacional,40,M,S,0,57482.7,Y,Current
+250,18.187,0.000,19.460,debito em conta,boleto,desconto internacional,81,F,M,1,77622.9,N,Vol
+252,24.960,0.000,82.895,cartao_credito,boleto,desconto internacional,71,F,S,1,61302,N,Current
+253,5.193,0.000,30.000,cartao_credito,boleto,padrao,90,F,M,1,41416.8,N,Vol
+255,18.811,0.000,86.989,debito em conta,via_email,padrao,42,F,S,1,14740.1,N,Vol
+257,17.345,0.000,95.973,cartao_credito,via_email,desconto internacional,93,F,M,1,20013.2,Y,Current
+258,10.885,0.000,26.754,conta_corrente,boleto,padrao,58,M,M,0,88811,N,Current
+259,11.355,0.000,13.460,cartao_credito,boleto,padrao,43,F,S,2,77293,N,Vol
+260,21.474,0.000,7.812,debito em conta,via_email,desconto internacional,23,F,M,2,70032.2,N,Current
+263,12.506,0.000,68.023,cartao_credito,boleto,padrao,84,M,M,0,88164,N,Current
+268,0.000,0.000,0.720,cartao_credito,via_email,padrao,94,F,M,1,35940.6,N,InVol
+280,0.000,0.000,2.640,debito em conta,via_email,padrao,93,F,M,1,50290.7,N,InVol
+282,12.634,0.000,37.345,cartao_credito,via_email,padrao,81,M,S,0,44073.5,N,Current
+285,3.258,0.000,10.074,cartao_credito,boleto,padrao,72,M,S,1,95182.1,N,Current
+286,25.226,0.000,45.862,cartao_credito,boleto,desconto internacional,70,M,M,2,52921,N,Current
+287,16.782,3.517,12.940,cartao_credito,boleto,padrao,54,F,M,1,27376,N,Vol
+289,28.242,0.000,139.125,cartao_credito,via_email,padrao,91,F,S,0,48262.4,N,Vol
+295,20.928,0.000,30.528,cartao_credito,via_email,padrao,50,F,M,2,59078,Y,Current
+302,13.450,3.770,15.896,cartao_credito,boleto,desconto internacional,67,F,S,0,79727,N,Vol
+307,29.067,0.000,23.002,cartao_credito,via_email,padrao,32,F,S,2,5108.57,N,Current
+309,23.111,0.000,87.006,conta_corrente,boleto,padrao,34,F,M,2,94024.1,N,Current
+310,18.741,0.000,113.109,cartao_credito,via_email,padrao,62,M,S,1,11359.6,N,Current
+311,7.059,0.000,20.352,conta_corrente,via_email,padrao,49,M,S,0,60282.8,N,Current
+315,11.974,0.000,30.629,debito em conta,via_email,desconto internacional,61,M,M,0,95132.7,N,Current
+316,27.960,0.000,87.156,cartao_credito,via_email,desconto internacional,39,F,M,1,85980.9,N,Current
+317,23.821,0.000,24.717,conta_corrente,via_email,desconto internacional,83,F,M,0,67042,N,Current
+318,0.000,0.000,2.348,cartao_credito,boleto,desconto internacional,28,M,M,0,99563.1,N,InVol
+321,6.204,0.000,41.749,debito em conta,boleto,padrao,52,F,M,1,24943,Y,Vol
+326,15.328,0.000,5.118,conta_corrente,via_email,padrao,26,M,S,2,8172.8,N,Current
+330,14.990,0.000,24.057,cartao_credito,boleto,padrao,55,F,M,0,79771.3,Y,Vol
+332,20.141,0.000,28.692,debito em conta,boleto,padrao,58,F,M,0,91446.4,Y,Current
+334,5.663,0.000,10.198,debito em conta,via_email,padrao,36,F,M,2,96283.6,N,Current
+335,27.369,0.205,48.900,conta_corrente,boleto,desconto internacional,19,F,S,1,24896.1,N,Vol
+336,18.611,0.000,33.543,cartao_credito,via_email,padrao,91,M,M,1,16785.9,N,Current
+340,0.000,0.000,0.985,conta_corrente,boleto,padrao,68,M,M,0,10421.7,N,Current
+348,24.892,0.000,65.567,cartao_credito,boleto,padrao,42,F,M,0,18199.7,N,Vol
+350,0.000,0.000,4.390,conta_corrente,boleto,padrao,90,M,M,1,5257.65,N,InVol
+352,27.113,0.000,5.997,conta_corrente,via_email,desconto internacional,47,F,M,2,56816.4,N,Vol
+356,3.100,0.000,6.433,cartao_credito,via_email,padrao,65,M,M,0,30057.4,Y,Current
+357,0.000,0.000,1.923,conta_corrente,via_email,padrao,26,M,M,2,52266.3,N,InVol
+363,8.355,0.000,90.651,debito em conta,via_email,desconto internacional,59,F,M,1,50290.7,N,Vol
+369,21.084,9.424,6.385,conta_corrente,via_email,desconto internacional,55,M,S,2,50050.5,N,Vol
+379,18.906,0.000,23.286,cartao_credito,boleto,padrao,39,F,S,1,46638.5,N,Current
+386,0.000,0.000,0.817,cartao_credito,boleto,desconto internacional,86,M,M,1,87073.1,N,InVol
+387,27.773,0.000,91.095,cartao_credito,boleto,desconto internacional,94,F,S,2,42983.3,N,Current
+388,24.035,0.000,48.056,cartao_credito,boleto,desconto internacional,84,F,S,2,32964.2,N,Current
+390,0.000,0.000,3.538,cartao_credito,boleto,desconto internacional,81,M,S,2,3714.96,N,InVol
+393,11.028,0.000,87.333,cartao_credito,via_email,desconto internacional,62,F,M,1,63314.6,N,Vol
+394,7.516,7.352,25.211,conta_corrente,via_email,padrao,22,F,M,0,42877.2,N,Vol
+396,4.506,0.000,16.355,cartao_credito,via_email,padrao,83,F,S,1,78854.9,N,Vol
+398,1.771,0.000,98.707,cartao_credito,boleto,padrao,29,M,S,0,49127.2,N,Current
+400,15.918,0.000,6.322,debito em conta,via_email,desconto internacional,44,M,M,2,57430.5,N,Current
+401,1.808,0.000,38.347,cartao_credito,via_email,desconto internacional,58,M,S,0,56286.8,N,Current
+402,26.780,0.000,40.467,cartao_credito,via_email,padrao,63,F,S,1,83977.6,N,Vol
+407,20.323,0.000,90.702,conta_corrente,via_email,padrao,22,F,S,2,80571.6,Y,Current
+409,0.000,0.000,3.475,cartao_credito,via_email,padrao,94,F,M,2,78994.1,N,InVol
+412,1.560,9.030,15.178,cartao_credito,via_email,padrao,53,M,M,1,18672,Y,Vol
+413,25.421,0.000,56.086,conta_corrente,via_email,desconto internacional,34,F,S,0,91147.5,N,Current
+415,23.086,0.000,38.287,cartao_credito,via_email,padrao,40,F,M,1,21126.7,N,Vol
+424,11.685,0.216,43.557,conta_corrente,boleto,padrao,29,F,S,0,73032.9,N,Current
+427,13.201,0.000,35.130,cartao_credito,boleto,padrao,50,M,S,2,48882.6,N,Current
+430,12.438,0.000,16.617,debito em conta,via_email,padrao,18,F,M,1,57549.5,N,Current
+431,19.286,0.000,10.778,cartao_credito,via_email,desconto internacional,57,F,M,0,81576.2,N,Vol
+433,24.287,0.000,13.727,debito em conta,via_email,padrao,62,M,S,2,49059.4,N,Current
+442,26.281,0.000,71.925,cartao_credito,boleto,desconto internacional,55,F,S,0,95489.4,Y,Vol
+448,12.869,0.000,92.854,cartao_credito,boleto,padrao,29,M,S,2,35235.9,N,Vol
+454,11.451,0.000,42.864,debito em conta,boleto,padrao,69,M,M,2,30901.3,N,Current
+458,0.086,0.000,7.437,debito em conta,boleto,desconto internacional,95,M,M,2,92855.3,N,Current
+463,0.000,0.000,3.623,debito em conta,via_email,padrao,37,F,M,1,25541.8,N,InVol
+469,26.055,0.000,59.615,cartao_credito,via_email,padrao,75,F,S,1,50290.7,N,Vol
+471,12.499,0.000,74.929,cartao_credito,via_email,padrao,55,F,M,2,7394.15,N,Current
+474,28.747,0.000,18.657,cartao_credito,via_email,padrao,67,M,M,2,37168.9,N,Current
+481,3.605,0.000,11.149,conta_corrente,via_email,padrao,59,M,M,0,77177.1,N,Current
+484,0.000,0.000,3.077,cartao_credito,boleto,padrao,77,F,S,2,79972.6,Y,InVol
+498,26.303,0.000,7.622,cartao_credito,boleto,padrao,89,M,S,2,30059.6,N,Current
+499,0.000,0.000,1.039,debito em conta,boleto,padrao,82,F,S,1,95877.7,N,InVol
+507,6.733,0.000,36.363,cartao_credito,via_email,padrao,72,M,M,0,96188.2,N,Current
+509,18.233,0.000,23.515,debito em conta,via_email,desconto internacional,59,M,M,2,35119.1,N,Current
+518,11.193,0.000,75.597,cartao_credito,boleto,padrao,67,M,S,1,36415.3,Y,Current
+521,2.684,0.000,17.128,debito em conta,boleto,padrao,58,F,M,1,1414.58,N,Current
+524,15.331,0.798,39.695,conta_corrente,via_email,padrao,18,F,M,1,9929.4,Y,Current
+527,10.800,0.000,42.794,cartao_credito,via_email,padrao,87,M,S,1,22718.6,N,Current
+532,0.000,0.000,2.641,cartao_credito,via_email,padrao,82,M,M,2,30271.4,N,InVol
+541,26.615,0.000,39.212,conta_corrente,boleto,padrao,49,M,M,1,62381.4,N,Current
+543,16.855,0.000,134.435,conta_corrente,via_email,padrao,82,M,S,2,2271.11,N,Current
+545,13.621,0.000,188.555,cartao_credito,via_email,padrao,91,F,M,1,82051.9,N,Vol
+546,7.682,0.000,22.609,cartao_credito,boleto,padrao,57,M,M,1,57272.7,N,Current
+549,0.000,0.000,4.742,conta_corrente,boleto,padrao,81,M,S,2,15669.3,Y,InVol
+550,16.157,0.000,88.103,cartao_credito,boleto,padrao,31,F,S,2,85401.7,Y,Current
+558,6.225,0.000,16.034,cartao_credito,via_email,desconto internacional,58,M,M,1,99619.9,Y,Current
+564,2.263,0.000,49.945,debito em conta,boleto,desconto internacional,23,M,M,2,55371.8,N,Current
+566,24.181,0.000,33.467,cartao_credito,via_email,padrao,48,F,M,0,24737.8,N,Current
+567,15.630,4.081,59.144,cartao_credito,via_email,desconto internacional,80,M,M,0,50290.7,N,Current
+568,0.000,0.000,0.932,cartao_credito,boleto,padrao,41,M,M,0,2645.1,Y,InVol
+569,6.634,0.000,18.257,cartao_credito,boleto,padrao,39,F,S,2,83996.9,N,Current
+572,15.335,0.000,61.857,cartao_credito,boleto,padrao,21,F,M,1,73138.8,Y,Current
+577,5.257,0.000,32.047,cartao_credito,via_email,padrao,19,M,M,0,58979.3,Y,Current
+578,6.761,0.000,25.009,conta_corrente,boleto,padrao,88,M,S,1,49176.2,N,Current
+579,0.000,0.000,4.329,conta_corrente,via_email,desconto internacional,28,F,M,0,48631.3,N,InVol
+586,0.000,0.000,4.092,conta_corrente,via_email,padrao,88,F,M,1,36970.2,N,InVol
+589,4.641,1.765,68.626,cartao_credito,boleto,padrao,77,F,M,0,39516.3,N,Vol
+591,28.921,0.000,28.713,debito em conta,via_email,padrao,76,M,M,2,24855.7,Y,Current
+594,26.216,0.000,19.724,cartao_credito,via_email,desconto internacional,29,M,M,0,97996.9,N,Current
+598,22.852,0.000,24.668,conta_corrente,boleto,desconto internacional,48,M,S,2,87381.8,N,Current
+603,28.056,0.000,61.993,cartao_credito,via_email,padrao,38,F,M,2,81309.5,Y,Current
+604,25.442,0.000,241.049,cartao_credito,via_email,desconto internacional,34,M,M,0,73834.9,Y,Current
+611,0.000,0.000,1.186,cartao_credito,boleto,desconto internacional,48,F,S,2,60908.1,N,InVol
+613,0.000,0.000,4.297,cartao_credito,via_email,padrao,87,F,S,0,21744.9,Y,InVol
+619,6.550,0.000,130.343,cartao_credito,via_email,padrao,79,F,M,0,28021.4,Y,Current
+621,14.400,0.000,20.970,cartao_credito,via_email,padrao,49,F,M,2,48334.1,N,Vol
+623,12.949,0.000,17.625,debito em conta,boleto,padrao,93,M,M,0,60325.9,Y,Current
+625,13.724,0.000,13.351,debito em conta,via_email,desconto internacional,72,M,S,0,21079.2,Y,Current
+627,18.129,0.000,83.884,debito em conta,boleto,desconto internacional,85,M,S,1,75991.2,N,Current
+628,0.000,0.000,2.015,cartao_credito,boleto,desconto internacional,70,F,S,1,64815.5,N,InVol
+630,26.468,0.000,13.946,cartao_credito,via_email,padrao,34,F,M,2,24325.8,Y,Current
+647,1.322,0.000,147.871,cartao_credito,via_email,padrao,54,F,S,1,61231.7,N,Vol
+648,27.229,8.074,6.677,debito em conta,boleto,padrao,94,F,M,2,17964,N,Vol
+649,0.000,0.000,0.049,cartao_credito,via_email,padrao,75,F,M,1,59251,Y,InVol
+654,19.481,6.178,93.304,debito em conta,via_email,desconto internacional,82,F,S,1,80066.3,N,Vol
+655,16.325,0.000,26.288,conta_corrente,via_email,padrao,37,M,M,0,43235.5,N,Current
+656,0.000,0.000,4.148,conta_corrente,boleto,desconto internacional,40,F,S,0,56016,N,InVol
+657,18.566,0.000,42.904,cartao_credito,via_email,padrao,65,M,M,0,50290.7,N,Current
+659,14.766,0.000,101.051,cartao_credito,boleto,padrao,25,M,S,2,51268.5,Y,Current
+661,17.795,0.000,12.565,cartao_credito,boleto,padrao,58,F,M,2,29597.1,N,Current
+665,20.941,0.000,13.914,cartao_credito,boleto,padrao,73,M,S,2,73240.3,N,Current
+668,6.189,9.159,105.295,debito em conta,via_email,padrao,40,F,M,0,15980.1,Y,Vol
+669,28.644,0.000,9.822,cartao_credito,boleto,padrao,59,F,S,1,61205.6,N,Vol
+670,22.528,0.000,38.359,cartao_credito,boleto,padrao,60,F,M,2,21380.9,N,Vol
+672,14.135,0.000,7.713,debito em conta,via_email,padrao,67,M,S,0,88874,Y,Current
+674,16.220,0.000,53.960,cartao_credito,boleto,padrao,43,M,M,1,35827.5,Y,Current
+683,0.000,0.000,4.874,conta_corrente,boleto,padrao,19,M,M,0,76071.2,N,InVol
+684,0.000,0.000,1.836,cartao_credito,via_email,desconto internacional,43,F,M,0,85205.1,Y,Vol
+692,15.009,0.000,45.926,debito em conta,via_email,padrao,95,M,M,2,21213,N,Current
+703,11.244,6.818,115.445,cartao_credito,boleto,desconto internacional,52,M,S,1,37809.7,Y,Vol
+704,22.532,0.000,11.531,cartao_credito,boleto,padrao,93,M,S,1,68089.1,N,Current
+709,0.000,0.000,0.843,conta_corrente,boleto,desconto internacional,22,M,S,1,15434.3,Y,Vol
+710,28.803,0.000,142.430,cartao_credito,boleto,desconto internacional,73,F,S,0,92405.9,N,Current
+715,5.200,0.000,51.568,cartao_credito,boleto,padrao,90,M,M,0,42248.7,N,Current
+721,0.000,0.000,4.832,cartao_credito,boleto,padrao,59,M,S,0,60111.8,N,InVol
+722,20.803,0.000,36.816,cartao_credito,via_email,padrao,55,F,M,0,28528,Y,Current
+727,24.423,0.000,104.948,cartao_credito,boleto,padrao,83,M,M,2,85753.4,N,Current
+729,20.606,0.000,18.221,conta_corrente,via_email,desconto internacional,37,M,S,1,28906.8,N,Current
+739,0.000,0.000,0.084,cartao_credito,boleto,desconto internacional,51,F,M,1,62990.7,N,InVol
+747,7.345,0.000,12.106,conta_corrente,via_email,desconto internacional,78,M,M,0,54864.6,N,Current
+763,22.438,0.000,107.181,conta_corrente,via_email,padrao,25,M,M,2,40774.2,N,Current
+765,26.871,0.000,6.607,conta_corrente,boleto,padrao,81,F,M,1,50613.1,Y,Vol
+774,0.000,0.000,0.086,conta_corrente,boleto,desconto internacional,79,F,M,1,18442.8,N,InVol
+779,7.431,0.000,89.514,conta_corrente,via_email,padrao,74,M,M,1,60015.1,N,Current
+781,27.565,0.000,212.356,debito em conta,via_email,padrao,65,M,S,1,11520.3,N,Current
+792,11.031,4.148,92.135,cartao_credito,via_email,padrao,57,M,S,2,26349.1,N,Current
+795,29.306,0.012,54.823,cartao_credito,boleto,padrao,65,M,M,2,54370.8,N,Current
+798,16.474,0.000,35.803,cartao_credito,boleto,padrao,55,M,M,2,50290.7,N,Current
+800,7.814,0.000,33.169,debito em conta,boleto,padrao,89,F,S,2,79133,Y,Vol
+803,14.206,0.000,25.159,cartao_credito,via_email,desconto internacional,61,F,S,2,54643.3,Y,Current
+804,22.087,6.422,7.526,cartao_credito,via_email,desconto internacional,55,F,S,0,91646.6,Y,Vol
+807,18.074,0.000,23.059,cartao_credito,boleto,padrao,42,F,M,1,79763.6,Y,Current
+812,13.964,0.000,7.734,conta_corrente,via_email,desconto internacional,43,M,M,1,15425.3,Y,Current
+813,7.041,3.507,99.394,cartao_credito,boleto,padrao,62,M,M,1,65619.8,Y,Vol
+815,24.140,0.000,40.522,debito em conta,via_email,padrao,38,M,S,2,58087.5,N,Current
+816,16.641,0.000,58.530,conta_corrente,via_email,desconto internacional,30,F,M,2,36740.7,N,Current
+818,0.000,0.000,0.494,conta_corrente,via_email,desconto internacional,57,M,S,1,78255.3,N,InVol
+827,28.748,6.326,64.696,cartao_credito,via_email,padrao,96,F,M,2,95394,N,Vol
+834,1.677,0.000,89.080,cartao_credito,boleto,padrao,74,F,S,2,25754.9,N,Current
+835,14.826,7.795,287.295,debito em conta,via_email,padrao,40,M,M,0,55714,N,Current
+836,0.000,0.000,1.314,debito em conta,via_email,padrao,64,F,M,1,1433.72,N,InVol
+844,8.290,0.000,8.243,conta_corrente,boleto,desconto internacional,65,F,S,0,36159,N,Current
+848,22.093,0.000,15.166,conta_corrente,boleto,desconto internacional,56,M,M,1,24626,N,Current
+849,25.653,0.813,81.738,conta_corrente,boleto,desconto internacional,69,F,M,0,49188.9,Y,Vol
+856,22.345,0.000,38.721,debito em conta,via_email,desconto internacional,57,F,M,0,83165.7,N,Vol
+858,13.640,0.000,16.207,debito em conta,via_email,desconto internacional,70,F,S,2,15080.4,N,Current
+860,28.809,0.000,13.636,debito em conta,via_email,padrao,22,F,M,2,59699.5,N,Current
+861,10.440,0.000,127.425,debito em conta,via_email,padrao,39,M,M,1,88474.7,Y,Current
+863,16.345,0.000,15.246,cartao_credito,boleto,padrao,58,M,M,0,64789.8,N,Current
+867,5.490,0.000,65.426,debito em conta,via_email,padrao,19,F,M,1,99261.8,Y,Current
+868,5.810,0.000,11.482,cartao_credito,boleto,padrao,83,F,M,0,89344.4,N,Current
+872,9.441,0.000,80.645,conta_corrente,via_email,padrao,82,F,S,1,79009.7,N,Current
+873,0.000,0.000,0.911,cartao_credito,via_email,padrao,68,M,M,2,17060.3,Y,InVol
+875,1.111,0.000,22.743,cartao_credito,boleto,padrao,96,M,S,0,83986.8,Y,Current
+877,16.374,0.050,49.190,cartao_credito,via_email,padrao,48,M,S,1,98360.6,Y,Current
+879,3.859,0.000,37.211,debito em conta,via_email,padrao,74,F,S,1,42002,N,Vol
+880,16.609,0.000,50.694,cartao_credito,via_email,padrao,55,M,M,1,41334.1,N,Current
+883,13.797,0.000,337.564,conta_corrente,boleto,padrao,69,F,M,2,28848.8,N,Current
+887,9.519,0.000,66.098,cartao_credito,via_email,padrao,53,M,M,2,17246,Y,Current
+888,3.225,0.000,35.931,cartao_credito,boleto,padrao,71,F,M,2,80667.4,N,Vol
+891,28.192,0.000,93.635,conta_corrente,boleto,padrao,19,F,S,2,56438.9,N,Current
+894,17.130,0.000,14.069,conta_corrente,boleto,desconto internacional,37,M,M,0,52355.1,Y,Current
+897,24.092,0.000,32.929,cartao_credito,boleto,desconto internacional,75,M,M,0,99454.2,N,Current
+910,1.015,0.000,57.990,conta_corrente,boleto,padrao,37,F,M,2,80869.8,N,Current
+914,18.451,0.000,65.572,conta_corrente,boleto,padrao,38,F,M,1,50290.7,N,Current
+918,25.987,0.000,26.699,conta_corrente,boleto,padrao,94,M,S,0,44927,N,Current
+919,0.000,0.000,1.855,conta_corrente,via_email,padrao,63,M,S,0,37120,Y,InVol
+920,20.585,0.000,50.330,cartao_credito,via_email,padrao,86,F,M,0,2530.76,Y,Current
+921,14.755,0.000,71.142,cartao_credito,via_email,desconto internacional,54,F,M,2,19758.3,N,Current
+926,9.786,8.798,72.624,cartao_credito,via_email,padrao,69,F,M,0,10250.1,N,Vol
+931,4.832,0.000,56.652,cartao_credito,via_email,padrao,28,F,M,0,38450.2,Y,Current
+934,5.380,8.833,33.588,debito em conta,via_email,padrao,70,M,S,2,66649.2,N,Current
+942,0.000,0.000,1.747,cartao_credito,via_email,desconto internacional,48,F,M,0,83157.5,N,InVol
+944,11.408,0.000,128.122,cartao_credito,boleto,desconto internacional,93,F,S,1,21395.2,Y,Vol
+947,29.231,0.000,450.624,conta_corrente,boleto,padrao,78,F,S,2,72800.9,N,Vol
+957,0.000,0.000,0.738,debito em conta,boleto,padrao,68,M,M,0,41486.4,Y,Current
+958,12.214,0.000,52.966,debito em conta,boleto,desconto internacional,31,M,S,1,37832.6,Y,Current
+961,0.000,0.000,2.553,cartao_credito,via_email,padrao,54,M,S,2,63959.2,N,InVol
+963,17.658,0.000,71.074,cartao_credito,boleto,padrao,53,F,S,0,95584.5,N,Current
+964,11.857,0.000,135.648,debito em conta,via_email,padrao,20,M,M,1,59632.9,Y,Current
+965,0.653,6.870,5.491,debito em conta,boleto,desconto internacional,97,F,S,1,98860.1,N,Vol
+967,0.000,0.000,3.735,cartao_credito,via_email,padrao,46,M,M,2,32811.6,N,InVol
+971,23.244,1.049,34.099,debito em conta,boleto,padrao,61,M,M,1,83039.2,Y,Vol
+972,14.046,4.429,114.323,cartao_credito,via_email,padrao,92,F,S,2,47396.2,N,Vol
+975,28.372,0.000,40.769,cartao_credito,via_email,padrao,37,F,M,0,46812.7,N,Current
+984,10.950,0.000,18.556,debito em conta,via_email,padrao,59,F,S,0,41624.7,Y,Vol
+987,6.673,0.000,7.787,cartao_credito,boleto,desconto internacional,50,F,M,0,63306.6,Y,Vol
+989,25.505,0.000,5.350,cartao_credito,via_email,desconto internacional,34,F,S,1,33671,N,Current
+990,14.154,0.000,108.433,debito em conta,boleto,desconto internacional,39,F,S,0,16829.6,N,Current
+998,18.979,0.000,32.897,cartao_credito,boleto,desconto internacional,69,M,M,0,80417.5,Y,Current
+999,0.000,0.000,0.439,cartao_credito,via_email,padrao,67,M,M,1,32363.9,Y,InVol
+1002,16.471,1.533,90.454,conta_corrente,via_email,padrao,53,M,M,1,34317.6,N,Vol
+1003,19.934,3.709,42.224,cartao_credito,via_email,desconto internacional,86,F,M,1,99248.1,N,Vol
+1006,21.006,9.127,16.684,cartao_credito,boleto,desconto internacional,62,F,M,2,8749.8,N,Vol
+1010,24.148,0.000,10.475,cartao_credito,via_email,desconto internacional,38,F,M,0,17499.2,N,Current
+1013,11.020,0.000,49.412,conta_corrente,via_email,padrao,94,M,M,1,76213.2,N,Current
+1015,16.195,0.000,12.118,cartao_credito,via_email,desconto internacional,75,F,M,2,11434.6,N,Vol
+1016,0.000,0.000,0.696,conta_corrente,boleto,padrao,56,F,S,2,27362.6,Y,InVol
+1020,26.523,0.000,32.199,cartao_credito,via_email,desconto internacional,97,M,M,2,75004.5,N,Current
+1021,23.184,5.535,72.958,cartao_credito,via_email,padrao,32,M,M,0,54430.2,Y,Vol
+1028,12.747,0.000,109.835,conta_corrente,boleto,desconto internacional,27,F,S,1,54370.7,N,Current
+1029,12.390,0.000,58.409,conta_corrente,boleto,padrao,90,M,S,2,83653.3,N,Current
+1031,24.043,0.000,19.893,conta_corrente,via_email,padrao,59,F,S,0,23892.2,Y,Vol
+1032,23.378,0.000,32.523,conta_corrente,via_email,padrao,77,F,S,0,34160.5,N,Vol
+1036,15.256,0.000,99.363,debito em conta,via_email,padrao,27,M,M,2,50290.7,N,Current
+1037,23.125,6.247,57.026,cartao_credito,boleto,desconto internacional,86,F,S,1,31639.2,N,Vol
+1038,25.230,0.941,65.512,cartao_credito,via_email,desconto internacional,47,F,M,1,7071.46,N,Vol
+1044,14.602,0.000,41.661,cartao_credito,via_email,desconto internacional,33,M,M,0,28000.4,Y,Current
+1046,5.992,0.000,136.388,cartao_credito,via_email,padrao,77,M,S,1,2743.69,N,Current
+1048,14.794,0.000,36.678,cartao_credito,boleto,desconto internacional,68,F,M,1,97318.6,Y,Vol
+1050,8.949,6.197,11.949,cartao_credito,boleto,padrao,93,F,S,1,46771.2,N,Vol
+1053,16.639,0.000,105.261,conta_corrente,via_email,padrao,30,F,M,1,48457.6,Y,Current
+1054,16.306,0.000,34.748,conta_corrente,boleto,padrao,93,M,M,2,40372.4,Y,Current
+1055,10.904,9.279,27.016,conta_corrente,via_email,desconto internacional,47,F,M,1,57611.4,N,Vol
+1057,12.756,0.000,19.985,conta_corrente,boleto,padrao,89,M,M,0,60156.9,Y,Current
+1059,0.000,0.000,1.519,debito em conta,boleto,padrao,18,M,S,2,11691.2,Y,InVol
+1060,9.671,0.000,38.212,debito em conta,boleto,padrao,22,F,M,1,58462.3,Y,Current
+1062,6.128,0.000,31.455,conta_corrente,boleto,desconto internacional,25,F,M,2,295.941,N,Vol
+1065,0.000,0.000,0.609,cartao_credito,boleto,desconto internacional,53,F,S,2,96704.7,N,InVol
+1067,17.339,0.000,9.316,conta_corrente,via_email,desconto internacional,44,F,S,2,17689.2,N,Vol
+1075,24.804,0.000,80.130,cartao_credito,via_email,padrao,66,M,M,1,7277.29,Y,Current
+1079,29.465,0.000,10.869,cartao_credito,via_email,padrao,69,F,S,0,45310.4,N,Vol
+1080,4.823,0.000,34.758,debito em conta,boleto,padrao,38,M,M,0,66742.3,N,Current
+1082,21.665,6.073,133.320,cartao_credito,boleto,desconto internacional,97,M,M,2,27667.6,N,Vol
+1083,19.843,4.906,72.582,debito em conta,via_email,padrao,45,M,M,2,7673.47,N,Vol
+1086,0.387,0.000,16.008,cartao_credito,boleto,desconto internacional,68,F,M,0,99832.9,N,Vol
+1087,7.886,0.000,21.726,cartao_credito,boleto,desconto internacional,46,M,M,0,93996.8,N,Current
+1091,23.554,3.191,108.275,cartao_credito,boleto,padrao,47,F,M,2,54039.4,N,Vol
+1092,23.523,0.000,14.266,cartao_credito,boleto,padrao,31,M,M,2,11254.9,Y,Current
+1100,7.552,0.000,36.365,cartao_credito,via_email,desconto internacional,55,F,S,2,51744.2,N,Current
+1101,16.534,0.000,16.489,cartao_credito,boleto,padrao,56,M,S,0,4841.33,Y,Current
+1103,5.014,7.916,24.417,debito em conta,via_email,desconto internacional,72,M,S,0,22150.8,N,Current
+1104,4.728,0.000,27.186,debito em conta,via_email,padrao,45,M,M,2,39035.8,N,Current
+1106,1.664,0.000,14.107,cartao_credito,boleto,padrao,63,M,M,0,82981,N,Current
+1110,0.837,0.000,30.127,conta_corrente,via_email,padrao,80,F,S,1,31809.7,Y,Vol
+1112,19.414,4.502,21.197,cartao_credito,boleto,desconto internacional,80,F,M,1,17755.4,N,Vol
+1115,6.417,0.000,145.393,conta_corrente,boleto,desconto internacional,61,M,M,0,41063.6,Y,Current
+1116,20.241,0.000,18.249,conta_corrente,via_email,padrao,48,F,M,0,4581.11,N,Vol
+1118,28.793,0.000,107.569,debito em conta,via_email,padrao,49,M,S,0,9414.82,N,Current
+1122,9.388,0.000,38.968,cartao_credito,via_email,padrao,65,M,S,1,57626.9,Y,Current
+1123,28.197,9.531,13.988,debito em conta,via_email,padrao,28,F,M,2,63328.8,N,Vol
+1128,0.000,0.000,0.583,cartao_credito,via_email,desconto internacional,78,F,M,2,62685,N,Vol
+1130,25.095,0.000,111.591,cartao_credito,boleto,padrao,46,F,M,1,51014,N,Vol
+1133,0.000,0.000,0.907,cartao_credito,boleto,padrao,25,F,S,2,88023.2,N,InVol
+1136,13.295,2.877,56.445,cartao_credito,via_email,padrao,42,M,M,0,18552.7,N,Vol
+1138,23.933,0.000,47.477,conta_corrente,boleto,desconto internacional,23,F,S,1,14082,N,Vol
+1143,29.350,0.000,20.094,cartao_credito,boleto,padrao,57,F,M,1,50290.7,N,Vol
+1149,11.899,0.000,11.939,cartao_credito,via_email,padrao,69,F,M,0,91198.6,N,Current
+1152,13.767,0.000,47.986,cartao_credito,via_email,padrao,58,M,S,2,4123.46,N,Current
+1158,4.269,0.000,57.619,conta_corrente,via_email,padrao,54,F,M,0,37389.2,N,Vol
+1160,6.990,0.000,64.412,cartao_credito,via_email,padrao,76,M,S,2,59592.6,Y,Current
+1164,26.004,0.000,37.129,conta_corrente,boleto,desconto internacional,79,F,S,1,87818.3,N,Current
+1166,26.499,0.000,54.757,cartao_credito,via_email,padrao,86,M,S,2,56256.1,N,Current
+1181,25.324,0.000,45.122,cartao_credito,via_email,desconto internacional,61,M,M,1,18307.4,N,Current
+1188,0.775,0.000,5.716,debito em conta,boleto,padrao,84,F,M,2,5936.48,Y,Vol
+1193,19.780,0.000,57.618,cartao_credito,boleto,desconto internacional,73,F,S,0,23832,N,Current
+1196,0.000,0.000,0.461,conta_corrente,boleto,padrao,77,F,S,0,36434.3,Y,InVol
+1199,7.260,0.000,74.813,cartao_credito,boleto,padrao,55,M,M,1,69408.3,N,Current
+1201,2.062,0.000,16.598,conta_corrente,boleto,padrao,28,M,S,2,39700.3,N,Vol
+1202,17.734,0.000,5.428,cartao_credito,via_email,padrao,45,F,M,0,41947.8,N,Current
+1203,0.000,0.000,3.540,debito em conta,boleto,desconto internacional,68,M,M,1,27677.8,N,Current
+1204,2.461,0.000,71.661,cartao_credito,via_email,padrao,75,F,M,2,42846.2,Y,Vol
+1211,21.442,0.000,38.816,cartao_credito,via_email,padrao,71,M,M,0,51195.5,Y,Current
+1219,16.772,0.000,16.358,debito em conta,via_email,desconto internacional,84,M,S,0,34148.6,Y,Current
+1223,0.000,0.000,4.422,conta_corrente,via_email,desconto internacional,62,F,S,2,5197,N,InVol
+1229,19.802,0.000,9.315,cartao_credito,boleto,desconto internacional,21,F,M,0,38705.5,Y,Vol
+1237,0.000,0.000,3.405,debito em conta,boleto,padrao,49,F,S,0,23660.3,N,InVol
+1250,22.156,0.092,54.799,cartao_credito,via_email,padrao,41,M,S,0,85804.3,Y,Current
+1252,0.299,7.787,220.977,cartao_credito,via_email,desconto internacional,49,F,S,1,60310.6,Y,Vol
+1254,19.556,0.000,34.424,cartao_credito,boleto,padrao,83,M,M,2,25108.2,Y,Current
+1255,23.309,0.000,83.498,cartao_credito,boleto,padrao,59,M,S,0,33912.4,Y,Current
+1259,14.156,0.000,84.915,conta_corrente,via_email,desconto internacional,32,F,M,1,7027.14,N,Current
+1261,9.559,0.000,150.243,cartao_credito,via_email,padrao,65,F,M,0,58345.8,N,Vol
+1264,25.634,0.000,5.344,cartao_credito,via_email,padrao,51,M,S,0,2630.4,Y,Current
+1267,2.497,0.000,24.990,conta_corrente,via_email,padrao,92,M,M,0,29518.8,N,Current
+1273,0.723,0.000,28.703,debito em conta,boleto,padrao,97,M,S,0,75854.9,N,Current
+1278,28.482,0.000,23.397,debito em conta,via_email,padrao,30,M,M,1,3578,N,Current
+1280,21.468,0.000,54.455,conta_corrente,boleto,padrao,64,F,S,2,62275.3,Y,Vol
+1283,1.717,0.000,91.747,debito em conta,via_email,desconto internacional,74,F,M,0,25445.6,N,Vol
+1293,6.830,0.000,52.201,conta_corrente,via_email,padrao,44,M,M,1,49554.8,N,Current
+1296,8.598,0.000,117.986,cartao_credito,via_email,desconto internacional,18,M,M,0,1846.01,N,Vol
+1297,17.478,0.000,24.210,cartao_credito,via_email,padrao,84,F,S,0,95056.9,N,Vol
+1298,23.057,0.000,5.943,cartao_credito,via_email,desconto internacional,18,M,M,0,40728.7,N,Current
+1300,9.614,2.656,160.666,cartao_credito,via_email,padrao,72,M,S,2,55050.5,Y,Vol
+1301,0.000,0.000,3.259,debito em conta,via_email,padrao,21,F,M,0,73701.9,Y,InVol
+1309,4.316,0.629,66.906,conta_corrente,boleto,desconto internacional,87,M,M,0,98127.6,N,Current
+1314,19.788,0.000,126.651,debito em conta,boleto,padrao,84,M,S,2,27958.5,N,Current
+1316,23.292,2.866,62.326,cartao_credito,via_email,padrao,22,M,M,1,95847.9,Y,Vol
+1321,28.325,0.000,54.310,cartao_credito,via_email,desconto internacional,19,F,M,1,67750.9,N,Current
+1322,0.344,0.000,10.984,cartao_credito,via_email,padrao,42,M,S,1,93645.3,N,Current
+1323,22.024,0.000,19.501,conta_corrente,boleto,padrao,42,F,M,1,31650.2,N,Current
+1325,1.184,0.000,33.624,cartao_credito,via_email,padrao,80,F,M,1,86618.8,N,Vol
+1326,27.814,2.097,94.109,cartao_credito,boleto,padrao,80,F,S,0,48506.7,N,Vol
+1327,6.350,0.000,19.745,conta_corrente,via_email,desconto internacional,53,M,M,0,50622.9,Y,Current
+1331,0.104,0.000,29.743,cartao_credito,via_email,padrao,59,F,M,0,50290.7,Y,Vol
+1336,0.000,0.000,2.315,debito em conta,via_email,padrao,61,F,M,1,79324.7,Y,InVol
+1337,29.891,0.000,37.417,cartao_credito,via_email,padrao,81,F,S,0,54486.5,N,Vol
+1338,26.665,6.969,5.949,debito em conta,via_email,padrao,41,F,M,1,84388.5,N,Vol
+1342,16.897,0.000,11.516,cartao_credito,via_email,padrao,53,M,S,2,21242.8,N,Current
+1343,17.262,0.000,75.583,debito em conta,boleto,padrao,91,M,S,2,61766.7,Y,Current
+1346,3.794,0.000,24.144,cartao_credito,boleto,desconto internacional,71,M,S,0,28273,Y,Current
+1349,1.042,6.103,28.831,cartao_credito,via_email,desconto internacional,33,M,M,1,57237.9,N,Vol
+1352,20.768,0.000,38.154,debito em conta,boleto,padrao,71,M,S,1,37248.6,Y,Current
+1354,20.761,0.000,43.303,cartao_credito,via_email,padrao,64,F,M,2,25796.5,N,Vol
+1358,16.422,0.000,39.755,debito em conta,via_email,padrao,76,M,S,1,24104.7,N,Current
+1365,26.292,0.000,35.319,cartao_credito,via_email,desconto internacional,49,F,M,2,48471.1,N,Vol
+1366,11.305,0.000,71.501,conta_corrente,via_email,desconto internacional,75,F,S,1,57952.6,N,Vol
+1368,6.978,0.000,15.516,debito em conta,boleto,padrao,39,F,S,1,31931.3,N,Current
+1370,9.391,0.000,21.318,cartao_credito,boleto,desconto internacional,33,F,M,1,33967.7,N,Current
+1371,23.243,0.000,87.620,cartao_credito,via_email,padrao,25,F,S,0,91106.4,N,Current
+1373,12.199,0.000,109.798,cartao_credito,boleto,padrao,85,M,M,0,18909.5,Y,Current
+1376,17.915,0.000,6.012,cartao_credito,boleto,padrao,26,M,S,2,19998.4,N,Vol
+1378,0.000,0.000,2.942,cartao_credito,via_email,desconto internacional,31,F,M,1,43787,N,InVol
+1379,0.000,0.000,2.399,conta_corrente,via_email,padrao,39,F,M,2,72401.8,N,Current
+1380,7.967,0.000,23.767,cartao_credito,boleto,padrao,68,M,S,1,83556.7,N,Current
+1381,4.450,7.274,296.629,conta_corrente,boleto,desconto internacional,46,F,M,0,34437.2,Y,Vol
+1385,22.726,0.000,10.913,conta_corrente,via_email,padrao,86,F,M,2,36090.7,N,Vol
+1389,17.314,0.000,53.614,cartao_credito,boleto,desconto internacional,65,F,M,2,58148.7,N,Vol
+1390,5.173,0.000,11.144,debito em conta,boleto,padrao,85,F,M,2,69730.9,Y,Vol
+1391,12.145,0.000,116.591,conta_corrente,boleto,padrao,79,F,S,2,43151.7,N,Vol
+1393,19.516,0.000,86.454,conta_corrente,via_email,desconto internacional,82,F,S,0,17491.4,N,Vol
+1395,21.323,0.000,7.548,cartao_credito,boleto,padrao,30,F,M,2,16948.8,N,Current
+1398,19.143,2.354,40.372,cartao_credito,boleto,desconto internacional,72,F,M,1,38788.3,Y,Vol
+1403,3.714,0.000,10.216,debito em conta,boleto,padrao,88,F,S,2,10764.6,N,Vol
+1404,12.858,0.036,156.512,cartao_credito,via_email,desconto internacional,18,F,M,0,13441.5,N,Current
+1411,3.859,0.000,20.854,conta_corrente,boleto,padrao,62,M,S,1,47503.9,N,Current
+1415,5.926,0.000,44.593,cartao_credito,boleto,desconto internacional,66,M,S,2,72018.6,Y,Current
+1417,0.000,0.000,4.999,conta_corrente,via_email,desconto internacional,29,F,S,1,21529.1,N,Vol
+1418,25.236,0.000,56.038,cartao_credito,via_email,padrao,36,M,M,1,96349.8,N,Current
+1421,3.452,4.183,117.344,debito em conta,via_email,padrao,76,F,M,0,35697.5,N,Vol
+1424,9.819,0.000,82.453,cartao_credito,via_email,desconto internacional,60,F,M,1,40792.3,Y,Current
+1428,27.878,0.000,13.129,debito em conta,boleto,padrao,46,F,M,0,94576.2,Y,Vol
+1429,11.003,0.000,87.129,cartao_credito,via_email,padrao,42,M,M,0,69463.1,N,Current
+1430,0.000,0.000,2.608,cartao_credito,boleto,desconto internacional,79,M,S,1,16203.5,Y,InVol
+1432,13.661,0.000,37.685,cartao_credito,boleto,padrao,90,F,M,1,2796.07,N,Current
+1436,12.613,0.000,18.812,debito em conta,via_email,padrao,88,F,S,0,68608,N,Current
+1437,26.191,0.000,18.197,cartao_credito,via_email,desconto internacional,46,M,M,1,44065.4,Y,Current
+1440,16.159,6.099,13.831,cartao_credito,via_email,desconto internacional,31,F,M,1,99485.3,N,Current
+1443,15.617,0.000,13.691,cartao_credito,via_email,desconto internacional,60,M,M,0,35125,N,Current
+1448,27.990,0.000,11.629,cartao_credito,boleto,padrao,57,F,M,1,4875.25,N,Vol
+1453,23.312,0.000,38.437,cartao_credito,boleto,padrao,71,F,S,0,26435.8,N,Current
+1455,2.964,3.301,73.325,debito em conta,via_email,desconto internacional,41,F,S,2,48271.8,N,Vol
+1457,0.000,0.000,2.343,cartao_credito,via_email,desconto internacional,49,F,M,2,50290.7,N,Vol
+1459,14.152,0.000,76.270,cartao_credito,via_email,desconto internacional,86,M,M,1,12713.3,N,Current
+1461,0.000,0.000,1.481,conta_corrente,via_email,padrao,94,M,S,0,13946.8,N,Current
+1462,14.742,0.000,147.293,cartao_credito,via_email,desconto internacional,19,F,M,1,16915.2,N,Vol
+1463,20.748,0.000,24.522,cartao_credito,via_email,padrao,20,M,S,2,68140.5,N,Current
+1464,15.271,0.000,29.477,cartao_credito,via_email,padrao,43,F,S,1,77021.7,N,Vol
+1467,10.429,0.000,16.897,cartao_credito,boleto,desconto internacional,47,M,S,1,12752.5,Y,Current
+1483,14.471,0.000,7.097,debito em conta,boleto,padrao,68,F,M,0,62484.8,N,Vol
+1484,11.661,0.000,38.360,debito em conta,boleto,desconto internacional,49,M,S,0,32358.1,N,Current
+1485,0.000,0.000,1.957,cartao_credito,via_email,desconto internacional,45,F,S,0,45057.1,N,InVol
+1487,3.723,0.000,36.504,cartao_credito,boleto,desconto internacional,61,M,S,0,72385.9,N,Current
+1490,16.814,0.000,80.187,debito em conta,boleto,desconto internacional,71,F,M,0,45444,N,Current
+1491,22.441,9.185,29.180,conta_corrente,boleto,padrao,36,M,M,0,97341.4,N,Current
+1493,7.260,6.122,184.525,conta_corrente,boleto,padrao,82,M,S,0,48841.4,N,Vol
+1494,5.179,5.644,112.808,conta_corrente,boleto,padrao,34,F,M,1,73098.7,N,Vol
+1496,23.132,0.000,23.328,cartao_credito,via_email,padrao,22,F,M,1,25863.8,N,Vol
+1502,22.904,2.151,22.630,conta_corrente,via_email,padrao,55,M,S,2,33377.3,N,Current
+1509,29.356,0.000,13.786,conta_corrente,boleto,desconto internacional,40,M,S,2,33373.9,N,Current
+1513,0.000,0.000,3.928,cartao_credito,via_email,padrao,88,F,M,2,58807.5,Y,InVol
+1515,28.839,0.000,51.143,cartao_credito,boleto,padrao,92,M,S,0,79872.6,N,Current
+1522,28.236,0.000,66.499,cartao_credito,boleto,padrao,21,M,S,1,48107.2,N,Current
+1531,0.000,0.000,3.328,cartao_credito,via_email,desconto internacional,36,F,S,1,94083.3,N,Current
+1532,0.000,0.000,3.597,debito em conta,via_email,desconto internacional,23,M,S,0,22475.5,N,InVol
+1539,2.937,0.000,165.434,cartao_credito,boleto,desconto internacional,48,M,M,1,3793.73,N,Current
+1543,23.217,0.000,143.812,conta_corrente,boleto,desconto internacional,22,F,S,2,14905,Y,Vol
+1547,1.741,0.000,30.121,cartao_credito,via_email,padrao,43,F,M,2,22781.6,Y,Vol
+1549,10.512,0.000,5.907,debito em conta,boleto,desconto internacional,67,F,S,1,9824.75,N,Current
+1550,27.747,8.249,19.635,cartao_credito,boleto,padrao,53,F,S,2,11503.8,Y,Vol
+1552,23.858,0.000,9.484,debito em conta,boleto,padrao,34,M,S,2,59753.2,Y,Current
+1558,8.318,0.000,29.316,cartao_credito,boleto,padrao,78,F,M,0,16840.7,N,Current
+1561,6.253,0.000,24.717,cartao_credito,boleto,padrao,27,F,S,2,13094.8,N,Vol
+1567,23.761,0.000,68.351,debito em conta,via_email,desconto internacional,65,F,M,1,37079.4,N,Current
+1574,14.697,0.000,17.870,debito em conta,via_email,desconto internacional,30,F,S,1,73334.3,N,Current
+1580,13.988,7.559,20.720,debito em conta,boleto,padrao,42,F,M,0,69458.8,N,Vol
+1582,13.149,0.000,33.939,conta_corrente,boleto,padrao,37,M,S,1,13126.9,N,Current
+1585,3.710,0.256,11.871,cartao_credito,via_email,padrao,58,F,M,1,16350.3,Y,Current
+1588,10.973,0.000,60.000,conta_corrente,boleto,desconto internacional,45,M,M,0,27170.6,N,Current
+1596,14.806,0.000,121.406,debito em conta,boleto,desconto internacional,50,F,M,2,96821.1,N,Vol
+1602,22.172,0.577,13.460,debito em conta,via_email,padrao,94,F,S,1,17540.7,Y,Vol
+1604,18.965,0.000,40.776,debito em conta,boleto,padrao,33,M,M,2,80385.4,N,Current
+1608,23.996,0.000,75.193,cartao_credito,via_email,padrao,93,M,S,1,4347.25,N,Current
+1609,23.413,0.000,85.216,conta_corrente,boleto,desconto internacional,89,M,S,0,51669,N,Current
+1613,6.533,0.000,13.846,conta_corrente,boleto,desconto internacional,27,M,M,2,16875.9,Y,Vol
+1617,8.761,0.000,25.636,cartao_credito,via_email,desconto internacional,20,F,M,1,2976.91,N,Current
+1626,16.617,7.882,16.057,conta_corrente,boleto,padrao,47,M,S,0,4961.5,Y,Current
+1633,13.325,8.053,56.647,cartao_credito,via_email,padrao,73,F,M,2,5237.63,N,Vol
+1635,25.718,0.000,73.715,cartao_credito,via_email,padrao,67,M,S,1,80982.7,N,Current
+1637,26.431,6.180,51.406,cartao_credito,via_email,padrao,19,F,S,1,71906.8,N,Vol
+1640,24.753,1.485,62.628,conta_corrente,boleto,desconto internacional,45,F,S,0,50290.7,Y,Vol
+1645,9.373,0.000,25.154,debito em conta,boleto,padrao,63,M,M,2,60644.3,N,Current
+1650,20.383,0.000,31.871,debito em conta,boleto,padrao,37,M,S,2,34524.7,Y,Current
+1654,0.000,0.000,3.509,cartao_credito,boleto,padrao,50,F,S,0,44785.4,N,InVol
+1657,14.477,0.000,53.379,conta_corrente,boleto,padrao,23,M,S,0,12686.9,N,Vol
+1668,3.369,0.000,43.539,conta_corrente,via_email,padrao,47,F,S,1,59489,N,Current
+1669,26.961,0.306,79.548,cartao_credito,via_email,padrao,31,M,S,2,14690.1,N,Current
+1670,11.815,0.000,26.818,cartao_credito,boleto,padrao,76,M,S,1,91607.4,N,Current
+1671,1.037,9.591,12.907,debito em conta,boleto,padrao,83,F,S,2,76845.3,Y,Vol
+1672,5.334,0.000,33.211,debito em conta,via_email,padrao,21,F,M,2,82056.6,N,Current
+1677,0.000,0.000,1.008,debito em conta,boleto,padrao,18,F,M,2,64726.8,N,Current
+1680,20.697,0.000,5.174,conta_corrente,via_email,padrao,35,M,M,2,42623.5,N,Current
+1682,17.083,0.000,163.975,conta_corrente,boleto,padrao,77,F,S,1,37331.2,N,Current
+1693,23.900,0.000,19.672,conta_corrente,via_email,desconto internacional,29,F,M,2,79960,N,Current
+1695,17.875,0.000,76.318,cartao_credito,boleto,padrao,93,M,S,0,93302.9,N,Current
+1697,17.450,4.941,49.924,debito em conta,boleto,padrao,39,F,M,2,47902,N,Current
+1701,9.574,0.000,85.112,cartao_credito,boleto,padrao,39,M,S,2,32272.7,N,Current
+1708,17.842,9.491,89.767,cartao_credito,via_email,padrao,70,F,S,0,58384.3,N,Vol
+1710,4.301,0.000,7.162,debito em conta,via_email,padrao,96,M,M,1,2502.74,N,Current
+1716,9.313,0.000,115.921,conta_corrente,via_email,desconto internacional,47,F,M,0,79721.1,N,Vol
+1717,26.046,0.000,114.276,conta_corrente,via_email,padrao,97,M,M,2,40844.4,N,Current
+1718,1.816,0.000,90.246,cartao_credito,via_email,padrao,79,F,M,0,8090.4,Y,Vol
+1723,3.347,9.610,136.888,conta_corrente,via_email,padrao,68,M,S,1,57322.1,Y,Vol
+1731,10.270,1.674,29.639,cartao_credito,boleto,padrao,20,M,M,0,69444.5,N,Vol
+1734,10.474,0.000,7.525,cartao_credito,via_email,padrao,51,M,M,0,64313,N,Current
+1737,10.608,0.125,159.885,debito em conta,via_email,desconto internacional,40,M,S,2,88943.9,N,Current
+1738,13.872,0.000,5.049,conta_corrente,via_email,padrao,39,M,S,1,50126.8,N,Current
+1739,12.537,0.000,311.290,cartao_credito,via_email,padrao,21,F,S,0,45612.9,N,Current
+1746,23.290,0.000,41.349,conta_corrente,via_email,desconto internacional,27,F,S,1,92718.6,N,Current
+1760,3.113,0.000,127.138,cartao_credito,via_email,padrao,68,M,S,2,17047.2,Y,Current
+1762,11.057,0.000,50.846,cartao_credito,boleto,padrao,64,F,S,1,7737.94,N,Vol
+1767,12.376,0.000,163.414,cartao_credito,via_email,desconto internacional,51,F,M,2,59613.1,N,Vol
+1769,27.012,7.554,45.374,cartao_credito,boleto,padrao,92,M,S,1,57904.4,N,Vol
+1771,19.440,0.000,14.385,cartao_credito,via_email,padrao,97,M,M,2,88146.4,N,Current
+1774,3.752,0.000,9.262,cartao_credito,boleto,desconto internacional,27,M,S,1,86608.5,N,Current
+1777,0.378,0.000,28.662,cartao_credito,boleto,padrao,72,F,M,0,78851.3,N,Vol
+1784,0.000,0.000,1.346,cartao_credito,boleto,desconto internacional,75,F,S,1,16326.7,N,InVol
+1785,12.699,0.000,88.095,debito em conta,boleto,desconto internacional,87,F,M,1,3624.7,N,Vol
+1789,27.258,0.000,69.366,debito em conta,boleto,padrao,57,F,M,1,36016.9,N,Vol
+1791,20.454,0.000,39.334,conta_corrente,via_email,desconto internacional,76,F,M,2,42031.8,N,Current
+1795,28.827,4.748,13.531,cartao_credito,via_email,desconto internacional,39,M,M,1,39229.1,N,Vol
+1800,3.285,0.000,8.224,debito em conta,via_email,padrao,42,M,M,0,57042.2,N,Current
+1803,0.439,0.000,122.379,debito em conta,boleto,padrao,74,M,S,1,94449.5,N,Current
+1814,3.527,0.000,257.192,cartao_credito,via_email,padrao,45,F,M,2,67085.4,N,Vol
+1815,17.657,0.000,23.421,conta_corrente,boleto,padrao,28,F,S,1,4972.89,N,Vol
+1818,2.502,0.000,31.993,debito em conta,boleto,padrao,67,M,M,0,26369.2,N,Current
+1820,18.851,0.000,31.789,debito em conta,boleto,desconto internacional,73,F,M,2,35976.5,Y,Vol
+1822,24.773,0.000,20.079,conta_corrente,boleto,desconto internacional,92,F,M,1,77129.1,Y,Vol
+1823,15.597,0.000,24.194,conta_corrente,boleto,padrao,79,F,M,2,8204.72,N,Vol
+1825,27.093,0.000,87.261,debito em conta,via_email,desconto internacional,59,M,M,2,40714.5,N,Current
+1827,8.212,9.635,45.669,debito em conta,boleto,padrao,75,M,M,1,97180.4,N,Vol
+1837,14.614,0.000,74.725,cartao_credito,via_email,padrao,68,F,M,2,50290.7,N,Vol
+1840,9.572,0.000,10.473,conta_corrente,via_email,padrao,23,F,M,0,869.57,N,Vol
+1843,22.892,0.000,22.187,conta_corrente,via_email,desconto internacional,52,F,M,1,70002.4,N,Vol
+1847,17.460,0.000,12.450,conta_corrente,boleto,padrao,82,M,S,0,37498.2,Y,Current
+1851,12.230,0.000,135.424,conta_corrente,boleto,padrao,31,M,M,0,51015.7,Y,Current
+1858,17.787,0.000,9.546,cartao_credito,boleto,padrao,96,M,S,2,29835.9,Y,Current
+1867,18.354,0.000,50.116,cartao_credito,via_email,padrao,80,M,S,1,13141.5,N,Current
+1871,0.000,0.000,2.766,cartao_credito,boleto,padrao,55,F,M,1,26340.7,Y,InVol
+1873,1.910,0.000,25.957,cartao_credito,boleto,padrao,86,F,S,0,69350.5,Y,Current
+1883,26.776,0.000,58.356,cartao_credito,via_email,padrao,97,F,M,1,51812.2,N,Vol
+1885,17.133,0.000,12.336,cartao_credito,via_email,padrao,82,F,M,1,49453.8,N,Current
+1888,27.975,0.000,58.092,debito em conta,via_email,padrao,62,F,S,2,28787.4,N,Current
+1889,26.687,0.000,9.670,cartao_credito,boleto,padrao,79,F,S,1,94278.7,Y,Current
+1901,17.391,0.000,41.485,debito em conta,boleto,padrao,58,M,S,2,12160.7,N,Current
+1905,25.971,0.000,10.947,cartao_credito,via_email,padrao,35,F,M,0,80659.1,N,Current
+1914,3.172,0.000,58.038,cartao_credito,via_email,padrao,57,M,M,1,35075,N,Current
+1918,2.462,0.000,109.734,debito em conta,boleto,padrao,23,M,M,1,43457.9,N,Current
+1919,25.986,0.000,21.093,cartao_credito,boleto,padrao,44,M,S,1,82314.1,Y,Current
+1935,22.385,0.000,40.490,debito em conta,via_email,padrao,93,F,S,1,13109.1,N,Current
+1937,7.830,0.000,121.462,cartao_credito,via_email,desconto internacional,71,M,M,2,51493,Y,Current
+1940,24.652,0.000,48.538,cartao_credito,via_email,desconto internacional,65,F,M,0,17700.4,N,Vol
+1942,22.799,0.000,20.263,cartao_credito,via_email,desconto internacional,88,M,M,1,13091.6,N,Current
+1943,17.216,0.000,31.559,conta_corrente,via_email,desconto internacional,55,F,M,0,91708.4,N,Current
+1944,17.007,0.000,137.337,cartao_credito,boleto,padrao,28,F,S,0,64335,Y,Current
+1957,9.007,0.000,38.162,conta_corrente,boleto,padrao,88,M,S,2,6704.78,N,Current
+1961,0.000,0.000,4.338,cartao_credito,boleto,padrao,52,M,S,1,29870,N,InVol
+1962,0.268,0.000,16.367,conta_corrente,boleto,padrao,45,F,S,1,92187.1,Y,Vol
+1964,7.040,0.000,47.933,debito em conta,boleto,padrao,69,M,M,1,38302.7,N,Current
+1965,3.036,0.000,42.920,cartao_credito,boleto,padrao,54,F,M,1,40027.6,Y,Vol
+1966,5.931,5.062,6.250,cartao_credito,boleto,padrao,26,M,S,1,85774.3,N,Vol
+1968,0.000,0.000,1.512,conta_corrente,via_email,padrao,61,M,M,2,25303.2,N,InVol
+1972,8.463,0.000,22.651,cartao_credito,boleto,padrao,51,F,S,2,2638.11,Y,Vol
+1974,1.516,0.000,94.979,cartao_credito,via_email,padrao,61,F,M,0,10878.5,N,Vol
+1976,0.587,8.237,50.213,cartao_credito,boleto,padrao,34,F,S,1,30234.8,N,Vol
+1978,11.746,0.000,54.840,conta_corrente,boleto,desconto internacional,62,F,S,2,13965.4,N,Vol
+1983,13.183,0.000,18.387,conta_corrente,via_email,desconto internacional,64,F,S,1,45495,N,Vol
+1987,6.040,0.000,19.522,cartao_credito,via_email,padrao,63,F,M,1,22198.1,Y,Vol
+1988,20.085,0.000,59.199,conta_corrente,via_email,desconto internacional,21,F,M,1,64557.8,Y,Current
+1990,29.864,0.000,52.220,debito em conta,boleto,padrao,68,F,M,2,62061.8,Y,Current
+1992,28.429,0.000,84.106,cartao_credito,boleto,padrao,48,F,S,0,76142,N,Current
+1995,10.440,0.000,39.961,cartao_credito,boleto,padrao,47,F,M,1,53298.7,N,Vol
+2002,0.000,0.000,2.984,conta_corrente,boleto,desconto internacional,68,M,M,0,14955.8,N,InVol
+2003,22.543,0.000,25.375,debito em conta,boleto,padrao,67,M,M,0,78319.3,N,Current
+2006,7.463,0.000,18.699,cartao_credito,boleto,desconto internacional,79,M,M,0,34994.1,N,Current
+2012,29.420,0.000,54.630,cartao_credito,via_email,padrao,81,M,S,1,97205.2,N,Current
+2013,0.000,0.000,1.220,cartao_credito,via_email,padrao,92,F,S,0,51611.3,N,InVol
+2015,0.000,0.000,0.623,cartao_credito,boleto,padrao,84,F,S,0,77462,N,Vol
+2021,29.418,0.000,332.464,cartao_credito,via_email,padrao,62,M,M,2,17888.7,N,Current
+2032,0.000,0.000,3.876,debito em conta,boleto,padrao,59,F,M,0,50290.7,N,InVol
+2033,0.000,0.000,4.144,debito em conta,via_email,padrao,52,F,M,0,85073.7,N,InVol
+2044,1.485,0.000,83.875,cartao_credito,via_email,padrao,36,M,S,1,38348.1,N,Current
+2045,27.996,5.328,16.276,conta_corrente,boleto,padrao,18,F,M,0,28770.9,N,Vol
+2053,21.328,0.000,35.850,cartao_credito,via_email,padrao,21,F,M,2,30763.8,Y,Vol
+2054,4.198,0.000,114.627,conta_corrente,via_email,padrao,81,F,M,2,3193.6,N,Vol
+2059,15.163,0.000,16.997,cartao_credito,via_email,padrao,41,F,M,0,33520.9,N,Vol
+2061,26.791,0.000,17.443,conta_corrente,boleto,padrao,56,F,M,0,11268.3,Y,Vol
+2062,26.040,0.000,10.209,cartao_credito,boleto,padrao,85,M,S,1,79688.7,N,Current
+2063,17.621,0.000,71.035,cartao_credito,boleto,padrao,28,M,S,2,88063.2,Y,Current
+2064,25.629,0.000,9.447,debito em conta,boleto,padrao,89,F,M,0,62229.6,N,Vol
+2070,8.810,0.000,9.290,debito em conta,via_email,desconto internacional,31,F,S,0,41856.2,N,Current
+2072,24.071,6.981,27.757,debito em conta,via_email,padrao,28,M,M,2,2056.06,Y,Vol
+2075,4.588,7.663,8.491,cartao_credito,via_email,padrao,95,M,S,0,38872.3,N,Vol
+2076,16.060,0.000,30.238,conta_corrente,via_email,padrao,39,M,M,1,89928.5,N,Current
+2080,3.941,0.000,7.533,debito em conta,via_email,padrao,37,F,S,0,74018.4,Y,Current
+2087,15.194,0.000,24.547,cartao_credito,via_email,desconto internacional,30,M,M,0,15819.6,N,Current
+2093,11.593,0.000,94.890,cartao_credito,via_email,padrao,96,M,S,2,25826.4,N,Current
+2094,0.251,0.000,32.188,cartao_credito,via_email,padrao,39,M,S,2,18569.2,N,Current
+2096,2.203,0.000,9.886,cartao_credito,via_email,desconto internacional,97,M,S,0,27498.1,N,Current
+2098,0.179,0.000,6.513,cartao_credito,boleto,desconto internacional,62,F,M,0,37121.7,Y,Vol
+2106,22.436,0.000,41.711,cartao_credito,via_email,desconto internacional,30,M,S,2,23464,Y,Current
+2111,20.880,4.498,66.600,conta_corrente,boleto,desconto internacional,54,F,M,0,69641.6,N,Current
+2114,26.996,0.000,13.011,cartao_credito,boleto,padrao,37,M,M,2,91272.2,Y,Current
+2117,19.136,0.000,9.145,cartao_credito,via_email,padrao,59,F,M,1,77374.6,Y,Vol
+2124,22.486,0.000,151.611,debito em conta,boleto,desconto internacional,56,M,M,2,85275,N,Current
+2132,17.490,0.000,39.623,cartao_credito,via_email,desconto internacional,36,F,M,2,47639.1,N,Current
+2135,0.515,1.882,21.865,conta_corrente,boleto,padrao,39,F,M,0,86770.4,N,Vol
+2146,0.584,0.000,150.985,cartao_credito,boleto,desconto internacional,27,F,M,2,53067.2,Y,Current
+2151,26.571,0.000,25.266,cartao_credito,boleto,padrao,81,F,M,0,71816.1,Y,Current
+2156,22.823,0.000,63.298,cartao_credito,boleto,padrao,84,F,S,1,60362.1,N,Vol
+2163,29.922,0.000,8.798,conta_corrente,via_email,desconto internacional,60,F,S,0,93322.1,Y,Current
+2165,26.696,0.000,9.464,cartao_credito,boleto,desconto internacional,96,M,M,1,8663.42,N,Current
+2170,0.000,0.000,1.446,cartao_credito,via_email,padrao,56,M,M,2,11607.6,N,InVol
+2174,5.334,0.000,103.308,cartao_credito,boleto,desconto internacional,54,M,M,2,23537.6,Y,Current
+2176,15.289,0.000,52.280,cartao_credito,via_email,padrao,44,M,M,1,91008.7,Y,Current
+2179,13.192,0.000,63.024,conta_corrente,via_email,desconto internacional,26,M,S,1,31166.6,N,Vol
+2180,22.305,0.000,51.704,cartao_credito,via_email,padrao,54,M,M,0,52284.7,N,Current
+2182,21.637,0.000,139.208,debito em conta,via_email,padrao,94,F,M,1,87404.6,N,Vol
+2185,14.638,0.000,99.002,cartao_credito,via_email,padrao,35,M,S,0,63782.6,N,Current
+2187,27.421,0.000,23.724,cartao_credito,via_email,padrao,77,M,M,2,49910.7,Y,Current
+2188,2.860,0.000,75.728,debito em conta,via_email,padrao,48,F,M,0,98129,N,Vol
+2189,11.968,0.000,25.585,cartao_credito,boleto,padrao,66,M,M,2,76161.4,Y,Current
+2191,23.240,0.000,80.648,debito em conta,via_email,padrao,97,F,S,1,12686,N,Vol
+2192,20.320,0.000,68.910,conta_corrente,via_email,padrao,62,M,M,0,56702.5,N,Current
+2194,0.000,0.000,4.023,cartao_credito,boleto,padrao,18,F,M,1,67112.7,N,Current
+2196,19.981,0.000,10.465,cartao_credito,via_email,padrao,51,M,M,1,64880,N,Current
+2197,13.129,0.000,41.346,conta_corrente,via_email,desconto internacional,34,F,S,1,51472.3,Y,Current
+2200,21.722,0.000,14.365,cartao_credito,via_email,padrao,71,M,S,0,12860.5,N,Current
+2201,19.285,2.026,14.383,debito em conta,via_email,desconto internacional,30,F,M,2,85394,Y,Vol
+2205,6.993,0.000,75.487,cartao_credito,via_email,padrao,18,M,S,2,87708,N,Current
+2211,19.885,9.577,19.208,conta_corrente,via_email,padrao,75,F,M,2,25738.4,N,Vol
+2215,7.727,0.000,255.236,cartao_credito,boleto,padrao,84,M,M,0,50290.7,N,Current
+2216,22.163,0.000,37.091,cartao_credito,boleto,padrao,48,M,S,0,12134.7,Y,Current
+2220,1.469,0.000,43.979,cartao_credito,via_email,padrao,43,F,S,1,86252.8,Y,Vol
+2221,8.461,0.000,116.249,debito em conta,via_email,padrao,94,M,M,0,87630.5,Y,Current
+2226,20.242,0.000,25.126,cartao_credito,boleto,desconto internacional,19,M,M,2,92981.2,Y,Current
+2239,23.562,0.000,21.117,conta_corrente,via_email,padrao,75,M,M,2,71035.4,N,Current
+2251,29.555,0.000,62.819,conta_corrente,via_email,padrao,78,F,M,2,26449.8,Y,Vol
+2254,13.864,0.000,18.816,cartao_credito,via_email,desconto internacional,26,M,S,1,76074.1,Y,Current
+2256,17.380,6.212,51.178,cartao_credito,boleto,padrao,90,F,M,1,56722.8,N,Vol
+2258,18.669,0.000,12.216,cartao_credito,boleto,desconto internacional,39,F,M,1,23012.6,N,Current
+2264,12.598,0.000,14.192,cartao_credito,via_email,padrao,23,F,S,2,48162,N,Current
+2266,24.892,0.000,28.823,cartao_credito,via_email,padrao,22,M,S,1,27778.2,N,Vol
+2268,16.502,0.000,5.666,conta_corrente,via_email,padrao,37,F,S,0,71570.3,N,Current
+2270,23.704,0.000,126.969,debito em conta,boleto,padrao,83,F,M,0,98056.3,N,Vol
+2278,11.568,0.000,70.895,cartao_credito,boleto,padrao,53,M,S,1,76394,N,Current
+2279,15.278,0.000,25.624,cartao_credito,boleto,padrao,79,F,M,2,87297.9,Y,Vol
+2280,14.209,0.000,43.025,cartao_credito,boleto,padrao,38,F,M,0,56518.4,Y,Current
+2286,8.863,0.000,72.105,cartao_credito,via_email,padrao,92,M,S,2,8014.59,N,Current
+2288,0.417,7.356,208.196,cartao_credito,via_email,padrao,87,F,S,0,59232.8,N,Vol
+2289,4.193,0.000,161.815,cartao_credito,boleto,padrao,76,M,M,1,72996,N,Current
+2301,11.059,0.000,30.233,cartao_credito,via_email,padrao,29,M,M,1,69294.7,Y,Current
+2304,0.000,0.000,2.245,conta_corrente,via_email,desconto internacional,83,M,S,0,91926,N,InVol
+2305,0.000,0.000,3.453,conta_corrente,via_email,desconto internacional,49,F,S,0,45818.7,N,InVol
+2312,0.000,0.000,4.111,cartao_credito,boleto,padrao,61,M,S,0,5898.9,N,Current
+2317,27.566,0.000,37.295,debito em conta,via_email,padrao,50,M,M,2,14543.1,N,Current
+2319,9.173,0.000,13.610,conta_corrente,via_email,padrao,25,M,M,0,52366.4,Y,Current
+2320,29.944,0.000,48.606,cartao_credito,boleto,padrao,56,F,S,1,49553.9,Y,Vol
+2322,12.345,0.000,7.757,debito em conta,via_email,desconto internacional,58,F,S,1,540.406,Y,Current
+2324,27.055,1.983,78.376,cartao_credito,boleto,padrao,57,F,M,0,57255.4,N,Vol
+2326,7.991,7.340,87.884,conta_corrente,boleto,padrao,22,F,S,1,71941.5,Y,Vol
+2337,16.922,0.000,93.299,cartao_credito,boleto,desconto internacional,83,M,S,2,65330.2,Y,Current
+2343,27.830,5.199,48.696,cartao_credito,boleto,desconto internacional,25,M,M,2,67339.8,N,Current
+2350,14.390,0.000,8.038,cartao_credito,via_email,padrao,79,F,S,2,15688.5,N,Vol
+2355,18.722,0.000,91.560,cartao_credito,via_email,padrao,53,F,S,1,68767,Y,Vol
+2356,0.000,0.000,4.759,cartao_credito,boleto,padrao,27,F,M,0,50290.7,Y,InVol
+2362,7.430,0.000,7.439,cartao_credito,via_email,padrao,78,F,M,2,92103.8,N,Vol
+2363,25.034,7.331,54.801,conta_corrente,via_email,desconto internacional,55,F,S,2,8392.14,Y,Vol
+2367,29.648,0.000,55.929,conta_corrente,boleto,padrao,32,F,M,2,16705.6,N,Current
+2376,22.126,0.000,22.386,cartao_credito,boleto,padrao,48,M,M,2,69005.6,N,Current
+2378,13.938,6.612,78.217,cartao_credito,boleto,padrao,68,F,M,1,81641.2,Y,Current
+2379,19.063,0.358,15.983,debito em conta,via_email,padrao,40,M,M,1,62789.9,N,Current
+2386,28.708,0.000,61.486,debito em conta,via_email,desconto internacional,54,M,S,1,13428.5,N,Current
+2387,12.059,0.000,27.388,debito em conta,boleto,desconto internacional,41,F,M,1,3920.43,Y,Current
+2398,26.459,0.000,95.682,debito em conta,boleto,desconto internacional,77,M,M,1,31841.7,Y,Current
+2400,29.224,0.000,35.141,conta_corrente,boleto,padrao,27,F,M,2,22137,N,Vol
+2403,7.706,4.558,43.210,cartao_credito,boleto,padrao,74,M,M,2,70908.7,N,Vol
+2406,12.892,0.000,53.817,debito em conta,boleto,desconto internacional,66,F,M,2,67239.4,N,Vol
+2407,6.906,7.218,128.106,cartao_credito,boleto,padrao,70,M,M,1,69406.7,Y,Vol
+2410,0.000,0.000,4.462,cartao_credito,via_email,padrao,76,F,M,2,83259.3,N,Vol
+2412,0.000,0.000,0.543,conta_corrente,boleto,padrao,66,M,M,0,42898.2,Y,InVol
+2413,12.465,0.000,65.402,cartao_credito,via_email,desconto internacional,33,M,M,1,78877.5,N,Current
+2414,13.624,0.000,28.228,cartao_credito,boleto,padrao,54,M,M,0,68438.3,N,Current
+2417,12.008,0.000,62.226,conta_corrente,via_email,padrao,67,M,S,0,9448.62,Y,Current
+2418,1.716,0.000,116.140,debito em conta,via_email,padrao,34,M,S,2,60095.2,Y,Current
+2420,9.137,6.296,47.852,debito em conta,boleto,padrao,19,M,M,1,20818.5,N,Vol
+2421,15.271,0.000,49.421,cartao_credito,boleto,desconto internacional,82,F,M,1,11895.7,N,Vol
+2422,0.000,0.000,4.214,cartao_credito,boleto,desconto internacional,70,F,M,1,6388.65,N,InVol
+2425,16.372,0.000,7.007,conta_corrente,via_email,padrao,97,F,M,1,51261.9,Y,Vol
+2426,21.689,3.461,17.375,cartao_credito,boleto,padrao,93,M,M,1,76511.3,N,Vol
+2428,0.000,0.000,3.388,cartao_credito,boleto,padrao,19,M,M,2,58774.9,Y,InVol
+2433,28.164,0.000,249.961,cartao_credito,boleto,padrao,86,F,S,2,84453.1,N,Current
+2434,21.494,0.000,32.745,cartao_credito,boleto,desconto internacional,73,F,M,2,33607,N,Vol
+2437,17.706,8.321,17.177,cartao_credito,via_email,padrao,73,F,M,1,84601.4,N,Vol
+2444,29.539,0.000,98.261,cartao_credito,via_email,padrao,50,M,S,2,86905.4,Y,Current
+2447,12.329,2.457,47.588,conta_corrente,via_email,desconto internacional,87,F,S,2,96025.5,N,Vol
+2448,0.000,0.000,3.366,conta_corrente,via_email,desconto internacional,59,F,M,2,36660.9,Y,InVol
+2449,10.690,0.000,38.394,conta_corrente,via_email,padrao,23,M,M,2,24457.6,Y,Vol
+2452,18.032,0.000,57.293,cartao_credito,boleto,desconto internacional,71,M,M,2,36439.8,Y,Current
+2455,22.560,0.000,410.611,conta_corrente,boleto,desconto internacional,24,F,S,2,98226.2,Y,Current
+2461,20.867,0.865,19.781,cartao_credito,via_email,padrao,86,M,S,1,94188.3,N,Current
+2471,10.289,4.832,13.890,debito em conta,via_email,desconto internacional,55,F,M,0,25080.6,Y,Vol
+2477,27.397,0.000,51.475,debito em conta,boleto,padrao,69,F,M,2,63670.8,Y,Vol
+2478,29.736,5.241,35.732,cartao_credito,via_email,padrao,40,M,S,0,5282.6,N,Vol
+2486,4.795,0.000,39.762,conta_corrente,boleto,padrao,79,F,S,0,77644.1,N,Current
+2494,22.607,0.000,89.591,cartao_credito,boleto,padrao,78,M,S,0,80693.1,N,Current
+2495,0.638,0.000,52.224,cartao_credito,via_email,desconto internacional,46,F,M,0,50290.7,Y,Vol
+2496,3.974,0.000,169.071,cartao_credito,via_email,padrao,40,F,M,2,91051,Y,Vol
+2498,16.498,6.433,59.498,conta_corrente,boleto,padrao,41,F,M,0,89915,N,Vol
+2501,0.000,0.000,3.711,cartao_credito,via_email,padrao,19,F,S,1,90205.6,Y,InVol
+2507,0.268,0.000,25.793,cartao_credito,boleto,padrao,70,M,S,2,14799.8,N,Current
+2508,6.192,4.480,7.831,conta_corrente,boleto,padrao,70,M,M,1,74381.5,N,Vol
+2510,25.647,0.000,15.309,conta_corrente,via_email,desconto internacional,83,M,M,1,9132.91,N,Current
+2514,16.251,0.000,66.622,cartao_credito,via_email,desconto internacional,77,M,M,2,29277.8,N,Current
+2521,3.328,0.000,99.324,debito em conta,via_email,padrao,91,F,M,0,99309,N,Vol
+2522,26.348,4.593,86.096,cartao_credito,via_email,padrao,73,F,S,0,78564.7,N,Current
+2528,15.305,0.000,8.552,cartao_credito,via_email,padrao,49,M,S,1,63230.3,N,Current
+2530,16.650,0.000,130.563,cartao_credito,via_email,desconto internacional,56,M,S,1,98533.3,N,Current
+2531,12.811,5.758,101.556,cartao_credito,via_email,padrao,79,F,M,0,50530.8,N,Vol
+2534,4.809,0.000,52.043,cartao_credito,boleto,desconto internacional,91,F,M,2,8502.99,N,Vol
+2540,23.252,0.000,10.619,cartao_credito,boleto,padrao,46,M,S,0,14865.8,Y,Current
+2549,1.760,0.000,72.562,cartao_credito,boleto,desconto internacional,47,M,M,0,84743.7,Y,Current
+2564,8.871,0.000,81.173,debito em conta,boleto,padrao,89,M,M,2,64009.7,N,Current
+2569,0.000,0.000,4.893,cartao_credito,boleto,padrao,84,M,M,0,20159.5,N,Vol
+2570,11.262,0.000,83.639,conta_corrente,via_email,desconto internacional,73,F,S,2,85184.6,N,Vol
+2574,28.236,0.000,36.964,conta_corrente,via_email,padrao,77,F,M,0,17021.6,N,Vol
+2579,1.887,0.000,13.160,cartao_credito,boleto,padrao,43,F,S,0,96854.3,N,Vol
+2586,9.088,0.000,11.394,cartao_credito,boleto,padrao,93,F,S,1,31240.3,Y,Current
+2590,4.280,0.000,76.617,cartao_credito,via_email,padrao,25,F,S,2,61463.7,N,Current
+2591,29.948,0.000,312.202,debito em conta,via_email,desconto internacional,97,M,M,1,9148.27,N,Current
+2592,25.711,0.000,15.603,cartao_credito,via_email,padrao,36,F,S,0,58488.3,Y,Current
+2595,18.255,0.000,47.449,debito em conta,boleto,padrao,25,M,M,0,4592.8,N,Vol
+2596,2.408,0.000,50.507,debito em conta,via_email,padrao,61,F,M,2,30998.8,N,Current
+2598,1.849,0.000,34.178,cartao_credito,boleto,desconto internacional,64,M,M,1,36510.9,N,Current
+2600,11.402,0.000,62.529,cartao_credito,via_email,padrao,88,M,M,1,43378.2,N,Current
+2601,23.449,0.000,98.126,cartao_credito,via_email,desconto internacional,18,M,M,1,76137.8,N,Current
+2605,12.793,0.000,17.179,cartao_credito,via_email,padrao,72,F,S,2,63291.1,Y,Vol
+2608,10.403,0.000,10.118,cartao_credito,boleto,padrao,92,M,M,1,81271.1,N,Current
+2613,28.684,1.374,13.292,cartao_credito,via_email,padrao,40,F,M,0,47750.4,Y,Vol
+2615,27.335,0.000,75.278,conta_corrente,via_email,padrao,88,M,M,2,71686.2,Y,Current
+2617,22.069,0.000,140.862,conta_corrente,via_email,padrao,29,F,S,1,73874.1,Y,Current
+2621,0.000,0.000,1.461,conta_corrente,boleto,padrao,21,M,S,0,15924.2,N,Current
+2622,13.705,0.000,171.469,cartao_credito,boleto,padrao,67,M,M,0,93201.3,N,Current
+2624,19.020,0.000,52.261,cartao_credito,boleto,padrao,74,M,S,1,18064.4,Y,Current
+2633,2.398,0.000,15.519,cartao_credito,boleto,desconto internacional,61,F,S,0,45667.1,Y,Vol
+2639,13.454,0.000,21.092,debito em conta,boleto,padrao,77,M,S,0,73850,N,Current
+2640,23.173,0.000,87.397,cartao_credito,via_email,desconto internacional,21,F,S,2,21709.7,N,Vol
+2645,0.000,0.000,0.566,cartao_credito,boleto,padrao,18,F,M,0,29696.1,N,InVol
+2646,2.841,0.000,24.447,conta_corrente,via_email,desconto internacional,71,F,M,2,49745.3,N,Current
+2656,13.250,0.000,79.936,cartao_credito,boleto,padrao,32,M,S,1,54164.9,N,Current
+2658,7.757,0.000,19.568,cartao_credito,via_email,desconto internacional,52,F,S,0,15906,Y,Vol
+2660,3.986,0.104,53.689,conta_corrente,boleto,padrao,78,F,M,0,50290.7,N,Current
+2663,13.315,0.000,157.814,conta_corrente,boleto,desconto internacional,84,F,M,1,83850.5,Y,Vol
+2680,18.422,6.464,28.067,conta_corrente,boleto,desconto internacional,35,F,M,2,50968.9,N,Vol
+2683,7.062,0.000,21.997,cartao_credito,via_email,padrao,38,F,M,2,60060.5,N,Current
+2684,0.000,0.000,3.016,cartao_credito,boleto,padrao,33,F,S,0,36486.4,N,Current
+2688,27.497,0.000,6.154,debito em conta,via_email,desconto internacional,56,F,M,1,87302.6,N,Vol
+2692,17.405,0.000,6.315,cartao_credito,boleto,padrao,20,F,S,2,43046.4,Y,Current
+2697,22.467,4.170,43.343,cartao_credito,via_email,padrao,20,F,M,2,88427,N,Current
+2701,23.780,0.000,114.435,conta_corrente,via_email,desconto internacional,45,M,M,2,37877.6,N,Current
+2703,29.796,9.895,216.295,debito em conta,boleto,padrao,19,M,S,0,5930.86,Y,Vol
+2705,8.377,0.000,16.444,cartao_credito,via_email,padrao,58,M,M,2,61334.8,Y,Current
+2711,6.999,1.152,165.868,cartao_credito,boleto,padrao,85,F,S,0,16175.6,N,Vol
+2713,13.697,0.000,74.180,conta_corrente,via_email,padrao,90,F,S,2,97445.2,Y,Vol
+2714,12.249,0.000,193.892,debito em conta,via_email,padrao,85,M,S,2,75639.8,N,Current
+2726,24.596,0.000,30.199,conta_corrente,via_email,padrao,58,M,M,1,32981.6,Y,Current
+2732,5.501,4.513,42.639,debito em conta,via_email,padrao,94,M,M,0,83876.4,Y,Vol
+2734,9.396,0.000,13.900,conta_corrente,boleto,padrao,90,M,S,2,81997,N,Current
+2737,24.872,0.000,29.221,cartao_credito,boleto,padrao,37,M,S,0,83378.3,Y,Current
+2738,17.150,0.000,148.600,conta_corrente,boleto,padrao,31,F,M,1,82388.2,N,Current
+2740,29.523,0.000,167.321,debito em conta,via_email,padrao,64,M,M,2,80289.1,N,Current
+2742,23.793,0.000,85.746,cartao_credito,via_email,padrao,86,F,M,2,23816.6,Y,Vol
+2743,22.353,0.000,13.610,cartao_credito,via_email,padrao,26,F,S,0,41340.6,N,Current
+2748,22.980,0.000,32.369,cartao_credito,boleto,padrao,34,F,S,2,90856.9,N,Current
+2749,2.871,0.000,262.916,cartao_credito,via_email,padrao,39,F,S,0,58623.8,N,Current
+2753,28.327,0.000,10.852,debito em conta,via_email,padrao,48,F,M,2,95429.7,N,Vol
+2757,7.135,0.000,36.244,conta_corrente,via_email,padrao,59,F,S,2,59478.8,N,Vol
+2762,0.083,0.000,8.415,debito em conta,via_email,padrao,38,M,M,1,50535.8,Y,Current
+2767,28.874,0.000,92.525,conta_corrente,via_email,padrao,62,M,M,2,33361.3,Y,Current
+2770,0.000,0.000,2.632,cartao_credito,via_email,padrao,75,F,M,2,55272.7,Y,InVol
+2771,12.280,0.000,10.419,conta_corrente,boleto,desconto internacional,56,F,M,0,50290.7,N,Vol
+2772,2.395,0.000,57.131,debito em conta,boleto,padrao,39,M,M,0,110.284,N,Current
+2774,1.718,0.000,12.858,cartao_credito,via_email,padrao,32,M,S,2,5565.43,Y,Current
+2778,0.000,0.000,3.460,cartao_credito,boleto,desconto internacional,70,F,M,1,22845.1,N,InVol
+2785,24.933,9.127,12.800,cartao_credito,boleto,padrao,71,F,M,2,80844.5,N,Vol
+2788,0.000,0.000,0.804,debito em conta,via_email,desconto internacional,63,F,M,0,88791.5,N,InVol
+2789,0.578,0.000,203.516,cartao_credito,boleto,padrao,67,F,M,2,88177.1,Y,Vol
+2790,9.188,0.000,34.259,debito em conta,boleto,desconto internacional,71,M,M,0,37113.6,N,Current
+2793,6.124,0.000,14.786,conta_corrente,boleto,padrao,58,M,M,1,4054.55,Y,Current
+2794,18.551,0.000,52.801,cartao_credito,boleto,padrao,61,F,S,1,32533.9,N,Vol
+2798,13.156,0.000,35.868,cartao_credito,boleto,desconto internacional,21,M,M,2,61825.5,N,Current
+2799,22.146,0.000,8.919,cartao_credito,via_email,desconto internacional,35,M,M,1,38997.7,N,Current
+2801,2.359,0.000,36.908,conta_corrente,boleto,desconto internacional,61,M,M,1,15865.5,N,Current
+2803,10.043,0.000,46.312,debito em conta,boleto,padrao,53,M,S,1,37111.5,Y,Current
+2804,18.759,0.000,15.294,cartao_credito,boleto,desconto internacional,73,F,M,2,87182.7,Y,Vol
+2812,27.704,6.117,124.146,conta_corrente,boleto,padrao,95,M,M,0,60101.1,Y,Current
+2813,6.334,0.000,62.254,debito em conta,via_email,desconto internacional,89,F,M,2,74628.1,N,Vol
+2817,16.193,0.000,160.422,cartao_credito,boleto,padrao,39,F,M,1,13829.4,N,Current
+2820,28.021,2.615,73.404,cartao_credito,via_email,desconto internacional,75,F,S,0,48755.1,N,Vol
+2824,8.187,0.000,190.782,cartao_credito,boleto,desconto internacional,33,F,S,1,68339.3,N,Current
+2825,26.459,9.242,53.785,cartao_credito,boleto,padrao,25,F,M,0,98433.8,N,Vol
+2826,14.686,0.000,172.533,cartao_credito,via_email,desconto internacional,64,M,S,0,79937.2,Y,Current
+2833,0.000,0.000,1.375,cartao_credito,boleto,padrao,64,M,M,1,56360.5,N,InVol
+2836,2.017,0.000,189.518,debito em conta,boleto,padrao,87,M,S,0,32683.9,Y,Current
+2844,22.514,0.000,5.376,cartao_credito,boleto,padrao,61,M,S,2,88408.2,N,Current
+2849,26.730,0.000,20.460,conta_corrente,via_email,padrao,32,M,M,2,70722.3,N,Current
+2859,1.805,0.000,12.756,cartao_credito,via_email,desconto internacional,48,M,S,0,88044.4,N,Current
+2862,23.442,0.000,22.175,cartao_credito,via_email,desconto internacional,97,F,M,1,95971.9,Y,Vol
+2864,5.666,0.000,103.797,cartao_credito,boleto,padrao,87,F,M,1,50290.7,Y,Vol
+2869,22.078,0.000,13.817,cartao_credito,boleto,padrao,57,M,S,1,41153.9,N,Current
+2870,24.300,0.000,64.836,conta_corrente,boleto,padrao,60,M,S,0,3184.42,N,Current
+2875,0.000,0.000,4.832,cartao_credito,boleto,padrao,66,F,M,2,91649.1,N,InVol
+2883,28.580,0.000,160.272,conta_corrente,via_email,desconto internacional,63,M,M,0,97603.6,Y,Current
+2890,6.050,0.000,35.732,debito em conta,via_email,padrao,74,F,S,2,60744.4,N,Current
+2894,17.420,0.000,31.483,conta_corrente,via_email,padrao,41,M,M,0,63985,Y,Current
+2899,10.456,0.000,17.078,debito em conta,via_email,padrao,63,F,S,0,19854.2,Y,Vol
+2901,4.680,0.000,5.718,debito em conta,via_email,padrao,34,F,M,0,17703.5,N,Current
+2907,29.893,0.847,38.426,cartao_credito,via_email,desconto internacional,85,M,S,1,91100.6,N,Current
+2909,19.405,0.552,8.693,cartao_credito,boleto,padrao,35,M,S,0,25938.5,Y,Current
+2910,25.392,0.000,7.497,cartao_credito,boleto,padrao,79,F,S,0,7379.6,Y,Vol
+2915,24.763,0.000,54.144,conta_corrente,boleto,padrao,53,F,M,2,19778.9,Y,Vol
+2916,12.933,0.000,207.598,cartao_credito,boleto,padrao,46,M,M,2,60459.6,N,Current
+2922,19.956,9.898,101.088,cartao_credito,via_email,desconto internacional,66,M,S,0,57122.2,Y,Vol
+2925,13.197,0.000,14.728,cartao_credito,via_email,desconto internacional,29,F,M,0,58267.3,N,Current
+2926,22.692,0.000,74.899,cartao_credito,via_email,padrao,77,F,S,0,70460.3,Y,Vol
+2931,29.500,0.000,13.244,cartao_credito,boleto,padrao,67,F,M,2,98217.1,N,Current
+2934,3.694,0.000,22.924,conta_corrente,via_email,padrao,96,F,S,1,32005.6,Y,Vol
+2935,25.009,0.000,68.518,cartao_credito,via_email,padrao,97,M,M,1,5723.09,N,Current
+2936,19.851,0.000,12.582,debito em conta,via_email,desconto internacional,48,F,S,1,55035.5,N,Vol
+2938,6.951,0.000,43.759,conta_corrente,via_email,desconto internacional,94,M,S,2,14309.1,N,Current
+2947,24.685,8.590,31.788,conta_corrente,boleto,padrao,85,F,S,0,66502.3,N,Vol
+2951,0.000,0.000,3.887,cartao_credito,boleto,padrao,45,F,S,1,85627.9,Y,InVol
+2959,8.668,0.000,10.295,debito em conta,boleto,padrao,55,M,S,0,30751.8,N,Current
+2960,0.000,0.000,1.387,cartao_credito,via_email,padrao,28,F,M,1,7543.29,Y,InVol
+2963,0.000,0.000,1.175,cartao_credito,via_email,desconto internacional,79,M,S,2,89566.2,N,InVol
+2964,8.722,0.000,8.474,cartao_credito,boleto,desconto internacional,27,M,S,0,86631.9,N,Current
+2965,7.606,0.000,7.261,cartao_credito,boleto,padrao,71,F,S,0,40519.3,N,Vol
+2968,18.532,0.000,68.477,cartao_credito,via_email,padrao,75,F,S,1,36939.7,Y,Vol
+2969,17.989,0.248,11.219,conta_corrente,boleto,padrao,41,M,M,1,40081.2,Y,Current
+2973,23.651,0.000,21.886,cartao_credito,via_email,padrao,84,M,M,1,68273.3,N,Current
+2974,27.293,0.000,115.790,cartao_credito,via_email,desconto internacional,56,F,S,0,42795.9,Y,Vol
+2984,0.928,0.000,8.076,cartao_credito,via_email,padrao,94,M,M,2,1140.26,N,Current
+2985,6.782,0.000,132.658,cartao_credito,boleto,padrao,66,F,M,2,41876.6,Y,Current
+2986,0.000,0.000,1.312,debito em conta,boleto,padrao,87,F,M,0,7657.96,N,InVol
+2994,18.000,0.000,133.759,cartao_credito,boleto,padrao,20,F,M,2,59758.4,N,Current
+2997,29.441,0.000,12.944,cartao_credito,boleto,desconto internacional,52,F,M,0,8370.36,N,Current
+2999,0.349,0.000,46.893,cartao_credito,boleto,padrao,65,F,M,1,7790.55,N,Vol
+3001,20.717,6.238,54.800,cartao_credito,via_email,padrao,41,F,S,2,27336.6,N,Vol
+3002,19.011,0.000,65.855,debito em conta,via_email,desconto internacional,49,F,S,0,64727.5,N,Current
+3003,21.272,0.000,218.123,conta_corrente,via_email,padrao,60,F,S,2,95930.6,Y,Vol
+3005,24.034,0.000,10.380,cartao_credito,boleto,padrao,34,M,S,0,50290.7,N,Current
+3007,23.661,7.936,61.005,debito em conta,via_email,padrao,49,M,M,1,20478.6,N,Vol
+3011,4.215,0.000,8.327,cartao_credito,via_email,padrao,20,F,M,0,72626.4,Y,Current
+3012,11.814,0.635,5.736,cartao_credito,boleto,padrao,97,M,M,0,96223.4,Y,Current
+3013,14.903,0.000,26.569,debito em conta,via_email,padrao,93,M,S,1,28485.7,N,Current
+3015,24.148,3.110,7.869,cartao_credito,boleto,padrao,30,F,M,1,69341.7,N,Vol
+3016,25.247,0.000,41.825,cartao_credito,via_email,padrao,60,M,M,2,94329.6,N,Current
+3020,8.121,0.000,33.231,cartao_credito,via_email,desconto internacional,60,M,M,2,67933.8,N,Current
+3021,27.045,0.905,14.638,debito em conta,boleto,desconto internacional,91,M,M,0,17527.3,N,Current
+3026,22.085,0.618,110.129,cartao_credito,via_email,padrao,24,F,M,1,88663.4,N,Current
+3032,11.910,0.000,134.395,cartao_credito,boleto,padrao,57,M,S,2,91136.2,N,Current
+3033,15.715,0.000,12.257,cartao_credito,boleto,padrao,38,M,S,2,52600,N,Current
+3035,6.123,0.000,90.285,cartao_credito,boleto,padrao,50,M,M,2,94902.6,N,Current
+3036,13.563,0.000,35.842,debito em conta,boleto,padrao,77,M,M,2,68704.3,Y,Current
+3039,29.968,0.000,105.663,conta_corrente,boleto,desconto internacional,51,F,M,1,78231,N,Vol
+3042,25.476,0.000,21.369,cartao_credito,via_email,padrao,33,F,M,2,28746.8,N,Current
+3046,19.942,0.000,29.378,cartao_credito,via_email,padrao,58,F,M,1,62260.2,N,Vol
+3049,5.354,0.000,42.460,cartao_credito,via_email,desconto internacional,43,M,M,0,12439.4,N,Current
+3057,20.528,6.386,59.389,cartao_credito,via_email,desconto internacional,33,F,M,0,60170.1,N,Vol
+3059,22.490,0.000,13.987,cartao_credito,boleto,padrao,22,M,M,1,57348.8,N,Current
+3063,26.067,0.000,101.007,cartao_credito,boleto,desconto internacional,19,M,M,2,42630,Y,Current
+3067,28.111,0.000,17.662,cartao_credito,boleto,padrao,57,F,M,2,64977.4,N,Current
+3068,16.662,1.924,10.210,debito em conta,boleto,desconto internacional,44,F,S,2,36824.5,N,Vol
+3069,21.596,0.000,21.471,conta_corrente,via_email,desconto internacional,28,F,S,2,39223.2,Y,Vol
+3071,25.414,0.000,5.445,cartao_credito,boleto,desconto internacional,39,M,M,0,42700.5,Y,Current
+3072,20.938,0.000,8.172,cartao_credito,via_email,padrao,93,M,S,0,38248.3,N,Current
+3073,11.021,0.000,9.261,cartao_credito,via_email,padrao,92,M,M,1,95020.4,Y,Current
+3074,29.020,0.000,173.619,cartao_credito,boleto,desconto internacional,84,M,M,0,46514.2,Y,Current
+3075,10.000,0.000,101.674,conta_corrente,boleto,desconto internacional,50,M,M,1,19301.3,Y,Current
+3076,5.938,0.000,8.930,cartao_credito,via_email,padrao,73,M,S,0,1259.01,Y,Current
+3095,6.566,7.004,82.369,debito em conta,via_email,desconto internacional,64,F,S,1,53357.2,N,Vol
+3097,25.209,0.000,58.425,debito em conta,boleto,padrao,80,F,S,0,65209.6,Y,Vol
+3098,18.320,0.000,47.576,debito em conta,via_email,padrao,37,F,S,0,5978.89,Y,Current
+3100,22.779,0.000,45.030,conta_corrente,via_email,padrao,78,M,M,0,92198.8,N,Current
+3103,21.885,0.000,53.559,cartao_credito,boleto,padrao,97,M,M,1,63394.9,N,Current
+3104,8.207,0.000,126.694,debito em conta,via_email,padrao,42,F,S,1,86021.7,Y,Vol
+3107,26.857,0.000,14.575,cartao_credito,boleto,padrao,53,F,S,2,26107.5,N,Vol
+3109,12.863,0.000,18.732,cartao_credito,via_email,padrao,45,F,M,0,59008.4,Y,Current
+3110,11.744,0.000,38.328,cartao_credito,via_email,padrao,64,F,M,0,6528.38,Y,Vol
+3119,28.791,5.213,67.359,conta_corrente,boleto,padrao,52,M,S,0,54622.3,N,Vol
+3125,19.043,0.000,29.399,conta_corrente,boleto,padrao,47,M,S,0,64295.2,Y,Current
+3131,21.988,6.942,12.874,cartao_credito,boleto,padrao,79,M,M,0,26074.5,N,Vol
+3135,0.000,0.000,2.164,conta_corrente,via_email,padrao,60,M,M,1,20552.6,N,Current
+3138,14.113,0.000,54.554,cartao_credito,boleto,desconto internacional,37,F,S,0,47732,Y,Current
+3141,15.196,0.000,295.308,cartao_credito,boleto,padrao,71,M,M,1,98967.7,N,Current
+3142,6.292,0.000,66.431,cartao_credito,via_email,padrao,76,M,M,0,14271.8,N,Current
+3145,24.022,3.409,183.624,debito em conta,via_email,padrao,44,F,M,1,7700.73,N,Vol
+3150,25.329,0.000,51.003,debito em conta,boleto,padrao,35,M,M,1,32238.2,N,Current
+3153,8.029,0.000,46.131,cartao_credito,via_email,padrao,97,F,M,0,2902.34,N,Vol
+3159,0.000,0.000,0.979,cartao_credito,boleto,padrao,22,F,S,2,50290.7,N,InVol
+3160,12.290,5.133,88.640,debito em conta,via_email,padrao,73,F,M,0,61438.2,N,Vol
+3162,0.000,0.000,3.631,debito em conta,boleto,padrao,70,M,M,1,17819.9,Y,InVol
+3163,25.360,0.000,51.250,debito em conta,via_email,padrao,26,M,S,1,72649.3,N,Current
+3165,26.828,0.000,19.267,cartao_credito,via_email,padrao,85,M,S,2,25353.4,Y,Current
+3168,2.330,5.308,23.468,debito em conta,via_email,desconto internacional,79,M,M,2,5265.35,N,Current
+3171,2.195,2.782,46.719,conta_corrente,boleto,padrao,86,F,M,1,53357.9,Y,Vol
+3173,0.000,0.000,4.033,cartao_credito,via_email,padrao,57,M,S,0,96412.1,N,InVol
+3176,22.706,0.000,19.977,debito em conta,boleto,desconto internacional,33,F,S,2,59573,N,Current
+3179,13.214,0.000,43.017,cartao_credito,boleto,padrao,97,F,S,0,84479.2,N,Current
+3183,6.010,0.000,27.821,cartao_credito,boleto,padrao,27,M,M,2,89781.4,Y,Current
+3185,1.639,0.000,5.924,conta_corrente,via_email,padrao,40,M,S,1,66296.1,N,Current
+3188,23.808,1.719,29.778,cartao_credito,boleto,desconto internacional,35,M,M,2,86549.5,N,Vol
+3190,11.832,1.208,50.944,cartao_credito,boleto,padrao,86,F,M,0,31242.1,N,Vol
+3194,4.002,0.000,6.113,cartao_credito,boleto,desconto internacional,46,M,S,0,90866.5,N,Current
+3195,9.652,0.000,108.822,conta_corrente,boleto,desconto internacional,58,F,M,2,81711.9,N,Vol
+3202,16.440,0.000,77.755,cartao_credito,via_email,desconto internacional,74,F,M,2,87844.8,N,Vol
+3204,14.144,0.000,30.329,debito em conta,boleto,padrao,30,F,M,0,20058.4,N,Current
+3207,12.094,0.000,119.016,debito em conta,via_email,desconto internacional,28,M,M,1,52750.8,N,Current
+3209,22.182,0.000,149.731,cartao_credito,boleto,padrao,41,M,S,1,52231.5,N,Current
+3215,20.921,0.000,9.012,debito em conta,via_email,desconto internacional,72,F,S,1,73338,N,Current
+3217,0.000,0.000,3.001,cartao_credito,boleto,padrao,93,F,M,2,96926.2,N,InVol
+3220,21.445,0.000,10.437,cartao_credito,via_email,padrao,31,M,M,0,15865,N,Current
+3225,25.996,0.000,65.290,cartao_credito,boleto,padrao,71,F,S,1,68386.8,N,Vol
+3229,0.000,0.000,0.703,cartao_credito,boleto,padrao,38,F,M,0,87920.5,N,InVol
+3230,17.128,3.042,23.992,cartao_credito,boleto,padrao,60,F,S,1,92353.3,N,Vol
+3234,14.284,0.000,113.548,cartao_credito,via_email,desconto internacional,34,F,M,2,94778.3,N,Current
+3235,29.345,0.000,49.549,cartao_credito,boleto,padrao,57,F,M,2,45488.3,N,Vol
+3236,18.512,0.000,27.371,cartao_credito,boleto,padrao,97,M,S,1,57347.6,Y,Current
+3237,2.477,0.000,21.584,cartao_credito,boleto,desconto internacional,83,M,S,0,52774,N,Current
+3241,15.975,0.000,51.843,conta_corrente,boleto,padrao,76,F,M,1,56545.8,Y,Vol
+3242,7.250,0.000,10.985,cartao_credito,boleto,padrao,30,F,M,2,45171.2,N,Current
+3243,14.435,0.000,35.207,cartao_credito,boleto,padrao,34,F,S,2,76578.7,Y,Current
+3245,5.604,0.000,50.882,debito em conta,boleto,desconto internacional,64,M,M,2,98855.5,N,Current
+3246,19.470,0.000,7.438,conta_corrente,boleto,desconto internacional,63,M,M,1,81686.6,N,Current
+3247,26.552,2.650,17.365,cartao_credito,via_email,padrao,45,F,M,1,8469.02,N,Vol
+3253,19.710,0.000,28.713,cartao_credito,via_email,padrao,60,M,S,0,67477,N,Current
+3255,6.208,0.000,10.659,conta_corrente,boleto,padrao,97,F,S,1,62903.3,N,Vol
+3259,12.760,0.000,16.420,cartao_credito,via_email,desconto internacional,73,F,M,1,19621.6,N,Vol
+3262,10.448,0.000,10.809,conta_corrente,via_email,padrao,22,F,M,1,50290.7,N,Vol
+3263,2.645,0.000,50.227,debito em conta,boleto,padrao,67,F,M,2,99100.1,N,Vol
+3265,14.730,0.000,22.804,conta_corrente,boleto,desconto internacional,97,M,M,2,1585.99,N,Current
+3266,16.139,5.975,51.021,debito em conta,boleto,padrao,33,F,M,2,85433.1,Y,Vol
+3268,3.206,0.000,72.493,cartao_credito,via_email,desconto internacional,58,M,S,1,69473.4,Y,Current
+3270,5.836,0.000,31.920,cartao_credito,via_email,desconto internacional,47,F,S,0,28891.2,N,Vol
+3276,27.329,0.000,25.111,cartao_credito,via_email,padrao,95,F,M,2,46273.9,N,Current
+3281,25.007,0.000,22.260,cartao_credito,via_email,padrao,36,M,S,1,93607.8,Y,Current
+3284,15.839,0.000,27.135,debito em conta,via_email,padrao,79,M,S,1,67137.7,N,Current
+3288,28.147,0.000,22.917,conta_corrente,via_email,padrao,60,F,M,2,48874.7,N,Vol
+3290,0.000,0.000,3.018,debito em conta,via_email,padrao,93,M,M,2,90189.1,N,InVol
+3291,0.000,0.000,2.419,cartao_credito,boleto,padrao,18,M,M,2,53589.8,N,InVol
+3292,23.333,0.000,64.949,debito em conta,boleto,padrao,55,F,M,0,53755.7,N,Vol
+3294,29.982,0.000,146.441,conta_corrente,via_email,desconto internacional,72,F,M,1,74263.8,N,Vol
+3298,8.160,0.000,27.723,debito em conta,via_email,padrao,31,M,S,0,6121.14,N,Current
+3299,14.885,8.362,15.798,cartao_credito,via_email,padrao,44,F,M,0,31561.5,N,Vol
+3318,0.000,0.000,2.250,cartao_credito,via_email,padrao,25,F,S,2,68616.5,Y,InVol
+3320,5.134,0.000,69.799,conta_corrente,via_email,padrao,75,F,M,1,55187.6,N,Vol
+3322,27.429,0.000,42.529,cartao_credito,via_email,padrao,53,M,M,2,14500.3,N,Current
+3323,13.421,1.256,13.126,cartao_credito,boleto,padrao,21,F,M,2,585.733,N,Vol
+3328,4.227,0.000,114.259,conta_corrente,boleto,desconto internacional,34,F,M,2,16616.3,N,Current
+3332,12.000,0.000,150.856,cartao_credito,boleto,padrao,66,M,M,1,31672.4,N,Current
+3334,25.996,0.000,9.947,cartao_credito,via_email,padrao,63,M,M,0,50290.7,Y,Current
+3336,21.482,0.000,60.381,debito em conta,via_email,padrao,89,M,S,1,73965.2,N,Current
+3340,6.299,0.000,66.582,conta_corrente,via_email,padrao,50,M,M,2,72356.8,N,Current
+3342,7.900,0.000,14.351,cartao_credito,via_email,desconto internacional,78,M,S,0,64893.7,Y,Current
+3346,6.087,4.187,44.908,conta_corrente,via_email,padrao,62,F,M,0,18831.1,N,Vol
+3362,12.693,0.000,5.059,cartao_credito,via_email,padrao,44,F,M,0,1461.98,N,Vol
+3364,21.640,0.000,87.400,cartao_credito,via_email,padrao,30,F,M,0,2031.61,N,Current
+3365,3.670,0.000,61.606,cartao_credito,via_email,padrao,71,F,M,1,29902.9,N,Vol
+3366,25.862,0.000,51.731,debito em conta,via_email,padrao,64,F,S,0,97524.5,N,Vol
+3370,14.074,0.000,42.917,cartao_credito,boleto,padrao,33,M,S,0,5466.39,Y,Current
+3377,27.735,0.000,44.529,debito em conta,boleto,desconto internacional,27,F,S,1,38458.6,Y,Vol
+3378,2.473,4.408,107.695,cartao_credito,boleto,desconto internacional,46,F,S,0,50451.6,N,Vol
+3379,16.223,0.000,16.767,cartao_credito,boleto,desconto internacional,46,F,S,2,41146.2,N,Vol
+3381,24.637,0.000,5.488,cartao_credito,via_email,padrao,96,M,M,0,61550.6,Y,Current
+3382,0.000,0.000,2.847,cartao_credito,via_email,padrao,24,M,S,0,43082.6,N,Vol
+3384,24.597,0.000,76.639,cartao_credito,via_email,padrao,95,F,S,2,7659.09,N,Vol
+3387,3.894,0.000,67.731,cartao_credito,via_email,desconto internacional,19,M,S,0,71861.9,N,Current
+3388,29.060,0.000,46.273,debito em conta,via_email,padrao,23,F,S,1,55844.7,N,Current
+3389,0.000,0.000,3.900,cartao_credito,boleto,padrao,21,M,M,0,25330.7,N,InVol
+3393,1.106,0.000,115.614,cartao_credito,boleto,padrao,94,F,S,1,91346.9,N,Current
+3394,16.153,0.000,145.353,cartao_credito,via_email,padrao,62,F,S,0,72358.6,Y,Current
+3395,12.055,0.000,13.323,debito em conta,boleto,padrao,52,F,S,0,44497.3,N,Vol
+3396,8.406,8.637,86.650,cartao_credito,via_email,desconto internacional,55,M,S,2,69710.9,Y,Vol
+3397,9.242,0.000,52.218,cartao_credito,via_email,desconto internacional,82,M,M,2,77665.6,N,Current
+3399,9.365,0.000,15.756,conta_corrente,via_email,padrao,19,M,M,2,22567.9,Y,Current
+3405,0.000,0.000,3.611,cartao_credito,via_email,padrao,33,M,M,2,42763.7,Y,Current
+3408,0.682,9.460,79.891,cartao_credito,boleto,padrao,94,F,S,1,46480.7,N,Vol
+3409,4.052,1.161,93.467,cartao_credito,boleto,desconto internacional,65,F,S,0,35219.6,Y,Vol
+3414,8.257,0.000,41.112,debito em conta,boleto,desconto internacional,44,M,S,2,31264.5,Y,Current
+3415,1.528,0.000,7.542,cartao_credito,boleto,desconto internacional,76,M,S,1,64520.3,N,Current
+3417,20.241,0.000,75.843,debito em conta,boleto,padrao,52,M,S,2,37480.8,N,Current
+3418,24.734,0.000,21.168,cartao_credito,via_email,padrao,28,M,S,0,37135.5,N,Vol
+3425,3.279,0.000,133.669,cartao_credito,boleto,padrao,92,M,M,2,24344.1,N,Current
+3426,0.000,0.000,2.275,debito em conta,via_email,padrao,93,M,S,0,44173.9,Y,InVol
+3432,1.866,0.000,12.139,cartao_credito,via_email,padrao,66,F,M,2,28384.5,Y,Vol
+3433,10.785,0.000,41.013,cartao_credito,via_email,padrao,79,M,S,2,97928.4,N,Current
+3434,24.387,0.000,48.383,cartao_credito,boleto,desconto internacional,51,F,M,1,53676.8,Y,Vol
+3443,0.000,0.000,2.776,cartao_credito,boleto,padrao,50,M,M,0,33043.1,N,InVol
+3444,3.580,0.000,13.816,cartao_credito,via_email,padrao,43,M,M,2,68467.1,N,Current
+3447,9.044,2.071,127.790,cartao_credito,via_email,desconto internacional,96,M,M,2,57877.5,N,Vol
+3460,13.241,0.000,81.583,cartao_credito,boleto,desconto internacional,96,M,S,2,57814.5,N,Current
+3462,7.107,0.000,19.495,debito em conta,via_email,padrao,81,M,S,0,67634.7,N,Current
+3469,29.856,0.000,25.834,cartao_credito,boleto,padrao,27,F,M,1,83682.9,N,Current
+3470,25.806,0.000,78.753,conta_corrente,boleto,padrao,86,M,M,0,98399.9,Y,Current
+3471,1.213,0.000,72.618,cartao_credito,via_email,desconto internacional,22,F,M,1,67744.5,Y,Current
+3474,12.419,0.000,89.792,cartao_credito,via_email,desconto internacional,60,F,M,1,47468.6,N,Vol
+3478,23.946,0.000,17.886,cartao_credito,via_email,desconto internacional,80,F,S,2,47893.1,N,Vol
+3481,0.000,0.000,3.832,conta_corrente,boleto,desconto internacional,92,F,S,2,50290.7,N,InVol
+3483,24.608,0.000,21.940,conta_corrente,boleto,padrao,68,M,S,1,14904.1,N,Current
+3486,5.318,0.000,69.576,cartao_credito,via_email,desconto internacional,42,M,M,0,42639.1,Y,Current
+3489,0.000,0.000,1.056,conta_corrente,boleto,padrao,26,F,M,1,81295.5,N,InVol
+3490,19.461,7.107,64.510,conta_corrente,via_email,padrao,28,F,S,2,90364.4,N,Vol
+3492,3.821,0.000,65.678,conta_corrente,via_email,padrao,79,M,M,2,73113.3,N,Current
+3493,11.853,0.000,176.485,cartao_credito,via_email,padrao,71,F,S,2,4581.9,N,Vol
+3494,20.732,0.000,87.933,cartao_credito,via_email,desconto internacional,89,M,M,1,87660.8,N,Current
+3506,27.824,0.000,124.746,conta_corrente,boleto,padrao,70,M,S,0,56421.8,Y,Current
+3511,10.855,0.000,122.452,cartao_credito,via_email,padrao,48,F,M,2,44596.4,N,Vol
+3518,0.031,0.000,46.041,cartao_credito,boleto,desconto internacional,60,M,S,1,86629.3,N,Current
+3525,1.694,0.000,67.350,debito em conta,via_email,padrao,49,M,S,0,41862.6,N,Current
+3528,8.374,0.000,20.709,cartao_credito,boleto,desconto internacional,62,M,M,2,64283.2,Y,Current
+3529,14.773,0.000,30.419,conta_corrente,boleto,padrao,86,M,M,0,92167.3,Y,Current
+3530,15.149,0.000,22.389,debito em conta,via_email,padrao,37,M,S,0,79245.1,N,Current
+3532,1.835,0.000,34.297,cartao_credito,via_email,padrao,46,M,M,0,82196.6,N,Current
+3535,11.822,0.000,27.679,cartao_credito,via_email,desconto internacional,62,F,S,2,15981.7,N,Vol
+3538,12.031,0.000,5.832,cartao_credito,via_email,desconto internacional,56,M,M,2,77246.3,N,Current
+3544,15.788,0.000,77.732,cartao_credito,boleto,padrao,52,F,M,0,67026.6,Y,Vol
+3545,8.785,0.000,120.532,cartao_credito,boleto,padrao,44,F,S,0,21038.9,N,Vol
+3555,10.879,0.000,47.655,cartao_credito,via_email,desconto internacional,94,F,S,2,49724.1,N,Vol
+3563,21.742,0.000,5.043,conta_corrente,via_email,padrao,28,F,M,1,24935.2,N,Vol
+3565,15.537,0.000,57.325,conta_corrente,boleto,desconto internacional,80,M,S,1,15060.6,Y,Current
+3569,0.437,0.000,234.595,conta_corrente,boleto,desconto internacional,72,M,S,1,95935.2,N,Current
+3579,9.647,0.000,158.337,cartao_credito,boleto,desconto internacional,46,M,S,1,11416.7,N,Current
+3580,19.733,0.000,71.320,cartao_credito,boleto,desconto internacional,81,F,M,1,70052,N,Vol
+3583,19.325,0.000,10.673,cartao_credito,via_email,padrao,88,F,M,2,66906.6,N,Vol
+3585,10.580,0.000,37.277,cartao_credito,boleto,padrao,53,M,M,2,37354,N,Current
+3587,21.758,0.000,11.006,cartao_credito,via_email,padrao,56,M,M,2,79952.9,N,Current
+3588,26.990,0.000,33.717,cartao_credito,via_email,padrao,23,F,S,1,76659.2,N,Current
+3595,10.941,6.770,50.782,conta_corrente,boleto,padrao,42,F,M,2,75750.1,Y,Vol
+3597,28.054,0.000,29.436,debito em conta,via_email,padrao,29,F,M,1,50290.7,N,Vol
+3599,26.856,0.000,213.184,cartao_credito,boleto,padrao,86,M,M,2,78801.2,N,Current
+3612,16.545,0.000,143.323,conta_corrente,boleto,padrao,80,M,M,1,73152,Y,Current
+3617,21.440,0.000,79.960,conta_corrente,via_email,desconto internacional,33,F,M,2,68203.8,Y,Current
+3618,0.000,0.000,1.476,cartao_credito,boleto,desconto internacional,53,F,S,1,23526.2,N,InVol
+3621,19.702,0.000,43.302,cartao_credito,boleto,desconto internacional,78,F,S,0,29534.4,N,Vol
+3622,0.000,0.000,4.113,conta_corrente,boleto,desconto internacional,79,F,S,1,38777.7,N,InVol
+3624,0.000,0.000,4.453,debito em conta,via_email,padrao,90,F,M,2,63000.1,N,InVol
+3627,5.905,0.000,29.606,cartao_credito,boleto,desconto internacional,83,F,M,1,75265.3,N,Vol
+3628,2.124,0.000,145.643,cartao_credito,via_email,padrao,68,M,S,1,92426.5,N,Current
+3630,0.000,0.000,2.135,debito em conta,boleto,padrao,58,M,S,2,17371,N,Current
+3633,24.251,9.420,57.847,cartao_credito,boleto,desconto internacional,21,M,S,1,92788.1,N,Vol
+3636,10.687,0.000,183.138,cartao_credito,via_email,desconto internacional,30,M,M,2,25298.6,N,Current
+3637,28.464,0.000,109.124,cartao_credito,via_email,desconto internacional,65,M,M,2,29609.7,Y,Current
+3640,26.718,3.262,37.843,cartao_credito,via_email,padrao,88,M,M,1,21890,Y,Vol
+3642,0.000,0.000,2.856,debito em conta,via_email,desconto internacional,59,M,M,2,18686.3,N,InVol
+3647,0.000,0.000,3.471,cartao_credito,boleto,desconto internacional,65,F,S,2,85048.1,Y,InVol
+3648,28.577,0.000,91.573,cartao_credito,via_email,padrao,75,M,M,0,47131.5,N,Current
+3650,21.997,0.000,66.586,conta_corrente,via_email,padrao,50,F,M,0,70004.1,N,Vol
+3651,3.988,0.000,73.453,conta_corrente,boleto,desconto internacional,40,M,M,0,66223.5,N,Current
+3656,0.000,0.000,2.607,cartao_credito,boleto,padrao,40,F,S,1,1302.4,N,InVol
+3658,26.233,0.000,188.736,cartao_credito,via_email,padrao,32,F,S,2,63041.1,Y,Current
+3659,0.408,0.000,5.200,conta_corrente,boleto,desconto internacional,23,F,M,0,35170.8,N,Vol
+3661,16.383,0.000,9.732,cartao_credito,via_email,padrao,63,F,S,0,3902.04,N,Current
+3665,21.527,0.000,26.544,cartao_credito,via_email,desconto internacional,31,F,M,2,55977.7,N,Current
+3667,0.000,0.000,1.524,conta_corrente,boleto,padrao,29,F,M,0,6921.4,Y,Vol
+3670,1.316,0.000,11.253,debito em conta,via_email,desconto internacional,64,F,M,1,45682.8,N,Current
+3674,25.886,0.000,5.872,cartao_credito,boleto,padrao,50,F,M,2,38281.1,N,Vol
+3675,29.272,6.331,109.855,conta_corrente,boleto,padrao,29,M,S,0,18861.6,Y,Vol
+3683,2.510,1.363,29.202,cartao_credito,boleto,padrao,19,M,M,0,89958.8,N,Current
+3691,19.559,7.764,55.654,conta_corrente,via_email,padrao,25,F,S,0,50290.7,Y,Current
+3692,18.123,0.000,21.006,debito em conta,boleto,desconto internacional,30,F,M,0,61971.9,Y,Current
+3696,11.531,0.000,7.036,conta_corrente,boleto,padrao,23,M,M,2,25672.6,N,Vol
+3698,6.331,0.000,26.976,conta_corrente,boleto,padrao,82,M,M,2,38457.9,N,Current
+3703,26.681,0.666,11.053,cartao_credito,boleto,padrao,67,F,S,1,96519.1,Y,Vol
+3705,15.510,0.000,5.105,cartao_credito,via_email,padrao,46,M,M,0,34805.5,N,Current
+3709,19.876,0.000,91.957,debito em conta,boleto,padrao,82,F,M,0,38687.2,N,Vol
+3710,15.142,0.000,23.115,cartao_credito,boleto,padrao,62,F,S,0,69977.3,N,Vol
+3719,2.312,8.820,8.503,conta_corrente,boleto,padrao,96,M,M,2,95184.9,N,Vol
+3722,2.538,8.900,73.973,debito em conta,via_email,padrao,64,M,S,0,53919.9,N,Current
+3728,16.601,0.000,59.150,cartao_credito,via_email,padrao,85,M,S,1,84100.4,N,Current
+3730,16.137,0.000,56.410,debito em conta,boleto,desconto internacional,90,M,M,0,60550.5,N,Current
+3735,10.774,0.000,76.410,cartao_credito,boleto,padrao,83,M,M,0,14604.9,N,Current
+3737,5.638,0.000,25.860,cartao_credito,boleto,padrao,18,F,M,1,97220.7,N,Current
+3738,21.984,0.000,80.052,debito em conta,boleto,padrao,38,M,M,0,82003.9,Y,Current
+3741,9.782,0.000,68.618,cartao_credito,boleto,padrao,78,M,M,1,23919.1,N,Current
+3745,14.975,0.000,74.253,cartao_credito,boleto,desconto internacional,33,F,M,2,90971.4,Y,Current
+3747,10.849,0.000,161.387,cartao_credito,via_email,desconto internacional,41,F,M,0,57307.1,N,Vol
+3748,27.444,0.000,53.850,cartao_credito,boleto,desconto internacional,65,F,S,0,73918.3,N,Vol
+3749,8.425,0.000,86.252,cartao_credito,via_email,padrao,52,F,M,2,58629.5,N,Current
+3752,20.797,0.000,14.871,debito em conta,via_email,padrao,20,M,M,2,13573.9,N,Current
+3753,21.862,0.000,78.815,conta_corrente,via_email,padrao,32,F,M,1,22039,Y,Current
+3764,24.612,1.318,15.157,cartao_credito,boleto,padrao,61,F,S,0,11890.1,Y,Vol
+3767,0.318,0.000,8.485,conta_corrente,boleto,padrao,20,M,M,0,8875.47,N,Vol
+3770,22.294,0.000,16.960,cartao_credito,boleto,padrao,74,F,S,0,94582.3,N,Vol
+3772,27.094,0.000,39.736,cartao_credito,via_email,padrao,35,F,M,0,77680,N,Current
+3775,23.302,0.000,291.729,cartao_credito,boleto,desconto internacional,71,F,S,0,61453.1,N,Vol
+3778,20.821,0.000,15.024,cartao_credito,via_email,padrao,87,M,S,1,45476,N,Current
+3779,25.105,8.390,38.652,debito em conta,boleto,desconto internacional,82,F,S,0,65670,Y,Current
+3792,18.573,0.000,135.354,cartao_credito,boleto,padrao,33,M,M,2,32573.8,Y,Current
+3793,1.487,0.000,86.027,debito em conta,via_email,padrao,89,F,S,0,63092.2,Y,Vol
+3794,4.786,0.000,60.838,conta_corrente,via_email,desconto internacional,54,M,M,0,4755.27,N,Current
+3795,9.057,0.000,34.618,cartao_credito,via_email,padrao,69,F,M,2,22925.1,N,Vol
+3796,13.683,0.000,166.827,debito em conta,via_email,padrao,83,M,S,0,90513.2,N,Current
+3798,29.500,0.000,30.210,cartao_credito,boleto,padrao,91,M,M,0,50290.7,N,Current
+3801,13.324,6.331,177.741,cartao_credito,via_email,padrao,19,F,S,2,39782,N,Vol
+3803,20.058,0.000,21.474,debito em conta,via_email,padrao,78,M,M,0,84269,N,Current
+3804,26.149,0.000,33.237,cartao_credito,boleto,padrao,94,M,M,1,83495,Y,Current
+3809,6.895,0.000,39.214,debito em conta,via_email,padrao,83,F,S,1,28796.4,Y,Current
+3812,24.136,0.000,79.363,cartao_credito,boleto,padrao,32,F,M,2,76791.5,N,Current
+3817,11.430,0.000,37.944,cartao_credito,boleto,padrao,66,F,S,1,56562.9,N,Vol
+3818,7.545,0.000,82.848,conta_corrente,via_email,padrao,42,F,S,0,74342.9,N,Vol
+3825,7.878,7.991,189.931,conta_corrente,via_email,padrao,27,F,M,2,90672.6,N,Current
+3826,13.910,0.000,155.614,cartao_credito,via_email,padrao,80,F,M,1,2279.44,Y,Current
+3827,25.193,8.895,86.229,cartao_credito,via_email,desconto internacional,74,M,M,1,47927.1,N,Current
+3829,29.862,8.326,70.588,debito em conta,via_email,padrao,94,F,M,1,15862.7,Y,Vol
+3844,2.375,9.951,81.768,debito em conta,boleto,padrao,35,M,M,2,15269.1,N,Current
+3846,23.167,0.000,44.324,debito em conta,boleto,padrao,93,F,S,0,32480.3,N,Current
+3848,7.509,0.000,84.840,cartao_credito,boleto,padrao,30,M,M,2,18893.4,N,Current
+3852,29.200,0.018,29.394,cartao_credito,via_email,padrao,40,M,M,2,24329.4,N,Current
+3854,0.000,0.000,2.023,cartao_credito,boleto,padrao,25,F,S,0,30094.6,N,InVol
+3855,0.000,0.000,3.868,cartao_credito,via_email,padrao,72,M,S,1,92769.4,N,InVol
+3858,3.332,0.000,40.635,debito em conta,via_email,padrao,22,F,M,1,91390.6,N,Current
+3873,8.480,0.000,28.838,conta_corrente,via_email,padrao,72,F,M,1,90912.8,N,Vol
+3879,4.473,0.000,32.908,debito em conta,via_email,desconto internacional,83,M,M,1,71000.5,Y,Current
+3880,14.101,0.000,17.537,conta_corrente,boleto,desconto internacional,94,F,S,1,51269.9,Y,Vol
+3887,2.721,0.000,14.963,cartao_credito,boleto,desconto internacional,21,M,M,2,58963.7,N,Current
+3890,7.735,0.000,89.809,cartao_credito,via_email,padrao,95,M,M,1,58167.3,Y,Current
+3894,4.303,0.000,5.470,cartao_credito,via_email,desconto internacional,82,M,M,1,53582.6,N,Current
+3896,6.228,0.000,21.444,cartao_credito,via_email,padrao,55,F,S,0,43734.1,N,Current
+3901,8.334,0.000,58.887,debito em conta,via_email,padrao,43,F,M,1,32806.3,N,Vol
+3909,0.000,0.000,4.426,debito em conta,boleto,desconto internacional,43,M,M,0,5976.68,Y,InVol
+3910,14.736,0.000,35.782,debito em conta,via_email,padrao,77,M,M,0,31852.4,N,Current
+3911,13.112,0.000,55.156,cartao_credito,boleto,desconto internacional,81,F,M,1,71668.2,Y,Vol
+3913,0.000,0.000,3.980,cartao_credito,via_email,desconto internacional,88,M,M,2,81710,Y,InVol
+3915,0.000,0.000,1.602,debito em conta,via_email,padrao,69,M,M,0,62150.4,N,InVol
+3917,27.334,7.419,112.310,cartao_credito,via_email,padrao,53,M,S,2,8854.31,N,Vol
+3918,9.578,0.000,241.720,cartao_credito,boleto,desconto internacional,88,F,S,1,46056.8,N,Current
+3933,16.253,4.678,57.360,conta_corrente,via_email,padrao,22,M,M,2,65129,Y,Current
+3936,13.351,0.000,8.765,conta_corrente,boleto,padrao,55,M,S,2,16938.5,N,Current
+3937,20.464,0.000,6.726,debito em conta,boleto,padrao,30,F,M,0,30174.2,N,Current
+3939,8.390,0.000,26.482,debito em conta,boleto,padrao,91,F,M,0,82001.8,N,Current
+3940,22.299,0.000,15.582,cartao_credito,via_email,padrao,19,F,M,0,26619.8,N,Vol
+3944,0.645,0.000,121.178,cartao_credito,boleto,padrao,29,M,S,0,94179.1,N,Current
+3946,25.419,0.000,97.376,cartao_credito,boleto,desconto internacional,33,F,M,1,82190.5,Y,Current
+3950,5.231,0.000,28.395,cartao_credito,via_email,padrao,62,M,M,1,57974.8,Y,Current
+3952,1.283,0.000,55.967,cartao_credito,boleto,padrao,82,M,S,2,50290.7,Y,Current
+3953,6.957,0.000,11.030,cartao_credito,via_email,padrao,87,F,S,0,70492.4,N,Vol
+3955,28.704,0.000,60.353,debito em conta,boleto,padrao,71,M,M,1,8073.11,N,Current
+3959,0.000,0.000,4.804,debito em conta,via_email,desconto internacional,74,F,M,2,98538.2,N,InVol
+3960,23.686,6.073,7.831,debito em conta,via_email,padrao,96,M,M,0,8118.75,N,Vol
+3961,24.250,0.000,5.212,conta_corrente,via_email,padrao,80,M,M,2,95448.6,Y,Current
+3962,28.822,0.000,97.050,cartao_credito,boleto,padrao,25,M,S,1,24141.5,Y,Current
+3965,5.839,0.000,103.013,cartao_credito,via_email,desconto internacional,21,F,M,0,27469.5,Y,Vol
+3966,23.393,0.000,23.931,debito em conta,boleto,padrao,66,F,M,1,62503.9,N,Vol
+3967,26.862,8.554,9.920,conta_corrente,via_email,padrao,48,F,M,1,75738.8,Y,Vol
+3971,1.395,0.000,44.210,cartao_credito,boleto,desconto internacional,92,M,M,0,29854.3,N,Current
+3976,0.000,0.000,1.648,debito em conta,boleto,padrao,88,F,M,2,80326.6,Y,InVol
+3982,15.549,5.871,15.591,cartao_credito,boleto,desconto internacional,69,M,M,0,4684.74,N,Vol
+3988,13.478,0.000,40.232,cartao_credito,via_email,padrao,52,M,S,0,42760.5,N,Current
+3989,23.509,0.000,10.746,debito em conta,via_email,desconto internacional,60,M,S,1,49072,N,Current
+3994,0.000,0.000,2.519,cartao_credito,boleto,desconto internacional,71,M,M,0,64882,N,Current
+3996,27.275,0.000,191.490,cartao_credito,boleto,padrao,79,M,M,2,76486.8,Y,Current
+3997,1.603,7.603,22.540,conta_corrente,via_email,desconto internacional,92,M,M,0,92093,Y,Current
+4002,15.090,0.000,56.899,debito em conta,boleto,padrao,19,F,M,0,68987.5,N,Current
+4003,21.545,0.000,12.133,cartao_credito,boleto,desconto internacional,26,F,M,1,68200,Y,Current
+4007,25.116,0.000,284.106,cartao_credito,boleto,desconto internacional,70,F,M,1,28197.3,Y,Vol
+4011,17.442,0.000,28.416,cartao_credito,boleto,padrao,55,F,M,0,67720.2,Y,Vol
+4013,15.864,0.000,27.319,debito em conta,via_email,padrao,72,F,S,1,78796,N,Vol
+4015,7.749,0.000,6.213,cartao_credito,via_email,padrao,69,M,M,0,95405.7,N,Current
+4017,28.824,0.000,37.069,debito em conta,via_email,padrao,33,M,S,1,53883.9,N,Current
+4018,14.581,0.000,92.516,cartao_credito,boleto,padrao,78,M,M,1,7426.81,Y,Current
+4020,12.239,0.000,23.558,cartao_credito,via_email,padrao,52,M,M,2,28255,N,Current
+4023,3.000,0.871,20.741,conta_corrente,boleto,padrao,36,M,S,2,55485.8,Y,Current
+4024,8.646,0.000,69.925,cartao_credito,via_email,padrao,43,F,S,1,53989.3,N,Vol
+4029,7.347,0.000,47.444,cartao_credito,via_email,padrao,33,M,M,1,19173.6,N,Current
+4031,10.658,0.601,286.242,cartao_credito,via_email,padrao,64,F,M,1,79734.6,Y,Vol
+4034,5.731,0.000,294.599,cartao_credito,boleto,padrao,49,F,M,2,69865.2,N,Vol
+4035,18.029,0.000,136.470,debito em conta,boleto,padrao,81,M,M,2,90478.6,N,Current
+4038,6.954,0.000,41.993,conta_corrente,boleto,desconto internacional,81,F,M,1,50860.7,Y,Vol
+4040,23.467,0.000,28.757,debito em conta,boleto,padrao,56,F,S,2,96863.6,N,Vol
+4047,22.297,0.000,11.048,cartao_credito,boleto,padrao,33,F,M,2,29368.6,N,Current
+4052,14.186,0.000,30.699,conta_corrente,via_email,desconto internacional,62,M,M,2,50290.7,N,Current
+4053,8.513,0.000,71.076,conta_corrente,via_email,padrao,24,F,M,1,15041.2,Y,Vol
+4063,12.331,9.921,63.996,conta_corrente,boleto,padrao,33,F,S,2,13669.8,N,Current
+4065,16.213,0.000,145.631,cartao_credito,boleto,padrao,40,F,S,1,26756.6,N,Vol
+4068,0.000,0.000,4.976,cartao_credito,via_email,padrao,96,M,S,1,86711.3,N,InVol
+4081,18.568,0.000,79.055,conta_corrente,boleto,padrao,94,M,S,0,79690.8,Y,Current
+4082,0.000,0.000,1.973,cartao_credito,via_email,desconto internacional,90,M,M,0,56894.8,N,InVol
+4084,24.349,0.000,8.179,debito em conta,boleto,desconto internacional,22,M,M,2,12389.3,Y,Current
+4085,23.442,0.000,6.699,conta_corrente,via_email,desconto internacional,77,M,M,1,21747.7,N,Current
+4086,5.218,0.000,66.820,cartao_credito,boleto,padrao,53,M,M,0,42370.2,N,Current
+4093,28.617,0.000,59.517,cartao_credito,via_email,padrao,97,M,M,2,47333.3,N,Current
+4094,8.054,0.000,19.288,cartao_credito,via_email,desconto internacional,85,M,S,0,89788,N,Current
+4101,21.436,0.000,27.620,debito em conta,via_email,padrao,53,F,S,2,4089.59,N,Vol
+4104,14.719,0.000,11.555,cartao_credito,boleto,padrao,76,F,M,1,87797.5,Y,Vol
+4108,0.000,0.000,0.962,cartao_credito,boleto,padrao,66,M,M,1,29672.4,N,InVol
+4111,13.669,0.000,38.275,conta_corrente,boleto,desconto internacional,78,M,S,0,54670.4,Y,Current
+4113,12.564,8.715,39.188,cartao_credito,boleto,desconto internacional,37,F,S,1,82335.5,N,Current
+4115,9.819,0.000,25.109,debito em conta,via_email,padrao,21,F,M,1,78855.5,N,Current
+4123,10.344,0.000,19.046,conta_corrente,boleto,padrao,48,M,M,2,7122.16,Y,Current
+4125,22.286,6.460,15.875,debito em conta,via_email,desconto internacional,80,F,M,1,26609.9,N,Vol
+4129,18.748,0.000,7.622,cartao_credito,via_email,desconto internacional,21,M,M,0,57596.1,N,Current
+4130,21.119,0.000,5.257,conta_corrente,boleto,padrao,66,F,S,2,43654.4,N,Current
+4132,21.111,0.000,25.904,conta_corrente,boleto,padrao,56,M,M,0,55501.6,Y,Current
+4136,0.000,0.000,3.950,conta_corrente,via_email,padrao,95,F,M,0,11020.3,N,InVol
+4137,0.832,0.000,25.120,cartao_credito,boleto,padrao,64,M,S,1,15822.6,Y,Current
+4138,4.978,0.000,84.613,cartao_credito,boleto,padrao,76,M,M,2,23536,N,Current
+4139,6.948,2.774,122.039,cartao_credito,via_email,padrao,37,F,S,0,95261.8,N,Vol
+4140,5.351,9.312,78.948,cartao_credito,boleto,desconto internacional,55,F,S,0,40200.7,Y,Vol
+4141,0.000,0.000,0.396,cartao_credito,via_email,padrao,40,F,M,1,50290.7,N,InVol
+4144,17.898,0.000,20.889,cartao_credito,boleto,padrao,40,M,M,0,77717.1,N,Current
+4146,16.189,0.000,24.430,cartao_credito,via_email,padrao,34,M,M,2,14794.3,Y,Current
+4152,11.014,0.000,36.884,cartao_credito,boleto,desconto internacional,59,F,M,0,887.5,N,Vol
+4153,0.000,0.000,3.502,conta_corrente,via_email,padrao,23,M,M,0,91659.9,N,InVol
+4155,23.994,4.354,39.558,debito em conta,boleto,padrao,79,F,M,0,2759.49,N,Vol
+4166,14.030,0.000,174.155,debito em conta,boleto,padrao,68,M,M,2,89449,N,Current
+4174,24.762,0.000,6.955,debito em conta,via_email,padrao,47,M,M,2,42818.5,N,Current
+4180,26.119,5.566,38.060,cartao_credito,via_email,desconto internacional,44,M,S,2,54953.1,N,Current
+4185,0.000,0.000,1.153,debito em conta,via_email,desconto internacional,74,M,S,0,13899,Y,InVol
+4186,13.117,0.000,43.958,cartao_credito,via_email,padrao,75,F,M,0,16814.1,Y,Current
+4189,4.728,0.000,81.006,debito em conta,boleto,padrao,33,F,S,2,1144.36,Y,Current
+4194,10.321,0.000,22.478,cartao_credito,via_email,padrao,82,F,M,2,72092.3,N,Vol
+4198,0.000,0.000,1.120,cartao_credito,boleto,padrao,77,F,S,0,29410.6,N,InVol
+4199,23.569,0.000,21.684,debito em conta,boleto,padrao,83,M,M,1,68290.8,Y,Current
+4201,28.324,0.000,12.406,conta_corrente,boleto,desconto internacional,60,F,S,2,24703.8,N,Vol
+4202,12.138,0.000,15.745,cartao_credito,boleto,padrao,35,M,S,0,44909.2,N,Current
+4209,15.416,0.393,150.510,debito em conta,boleto,padrao,85,M,M,1,58310.2,Y,Current
+4212,2.721,0.000,80.269,conta_corrente,via_email,padrao,88,F,M,1,96090.2,N,Current
+4213,2.884,0.000,10.253,conta_corrente,boleto,padrao,27,F,S,0,67668.3,N,Current
+4217,17.377,0.000,90.580,conta_corrente,boleto,desconto internacional,31,M,S,0,6165.64,Y,Current
+4228,16.799,0.000,268.958,cartao_credito,via_email,padrao,47,M,S,2,23511.4,Y,Current
+4230,15.746,0.000,32.846,cartao_credito,boleto,desconto internacional,39,F,M,1,46736,N,Current
+4234,23.087,0.859,88.833,cartao_credito,boleto,desconto internacional,62,F,M,2,127.237,N,Current
+4238,24.263,0.000,8.646,cartao_credito,via_email,padrao,91,F,M,1,57517.9,N,Current
+4242,21.446,0.000,30.652,cartao_credito,via_email,padrao,57,F,M,0,70459.5,N,Vol
+4256,20.414,0.000,81.483,cartao_credito,boleto,padrao,86,F,M,0,85180.1,N,Vol
+4261,3.243,0.000,42.302,cartao_credito,via_email,desconto internacional,71,F,M,0,67812.8,N,Vol
+4262,21.054,0.000,28.380,cartao_credito,via_email,padrao,97,M,M,0,45871.4,N,Current
+4263,11.047,0.000,285.176,debito em conta,boleto,padrao,49,M,M,2,90414.9,Y,Current
+4264,10.229,8.005,139.482,cartao_credito,boleto,padrao,77,M,M,0,31650,Y,Current
+4265,11.135,0.000,110.787,cartao_credito,boleto,desconto internacional,24,M,M,0,25921.4,N,Vol
+4267,16.169,0.000,6.106,cartao_credito,boleto,padrao,50,F,M,2,11458.4,Y,Current
+4271,14.602,0.000,94.356,conta_corrente,boleto,padrao,40,M,S,0,67823.5,Y,Current
+4273,25.401,2.682,69.951,cartao_credito,boleto,padrao,74,F,S,1,52307,N,Vol
+4282,20.851,0.000,21.995,conta_corrente,boleto,padrao,88,F,S,2,18172.8,Y,Vol
+4287,24.664,0.000,32.338,cartao_credito,boleto,padrao,61,M,S,0,77920.8,N,Current
+4290,20.177,9.161,46.262,debito em conta,via_email,padrao,38,M,M,2,52989.2,N,Vol
+4291,17.121,0.000,57.778,cartao_credito,via_email,padrao,83,F,M,0,42491.4,N,Current
+4298,7.033,9.579,104.796,conta_corrente,boleto,desconto internacional,64,M,M,1,10286.4,N,Vol
+4303,3.160,0.000,105.555,cartao_credito,via_email,padrao,32,F,M,2,82258.2,Y,Current
+4310,27.630,0.000,79.355,cartao_credito,boleto,padrao,58,F,M,0,11253,Y,Vol
+4315,8.794,0.000,23.940,debito em conta,via_email,padrao,62,M,S,2,10219,Y,Current
+4317,13.763,0.000,26.925,conta_corrente,boleto,padrao,28,M,M,1,43448,N,Current
+4320,13.237,2.920,16.016,cartao_credito,boleto,desconto internacional,83,F,M,2,85022.1,N,Vol
+4321,4.321,0.000,32.999,cartao_credito,via_email,desconto internacional,22,M,M,2,33149.2,N,Current
+4323,16.748,0.000,262.644,cartao_credito,via_email,desconto internacional,37,F,S,2,34567,Y,Current
+4324,3.517,0.000,49.653,cartao_credito,via_email,desconto internacional,58,F,S,1,53357.4,N,Current
+4328,14.066,0.000,78.928,cartao_credito,boleto,padrao,55,F,M,2,9665.54,Y,Vol
+4331,29.059,0.301,65.360,conta_corrente,via_email,padrao,97,M,M,0,39383.4,Y,Current
+4332,0.000,0.000,3.419,cartao_credito,boleto,padrao,26,M,M,0,10095.8,N,InVol
+4334,22.345,0.000,81.660,cartao_credito,boleto,padrao,37,M,S,0,32872.1,N,Current
+4339,4.912,6.469,116.419,cartao_credito,via_email,desconto internacional,23,M,S,1,50290.7,N,Vol
+4342,25.354,6.103,73.665,debito em conta,boleto,desconto internacional,69,M,S,2,52127.5,N,Current
+4345,15.818,0.000,108.035,cartao_credito,via_email,padrao,65,F,S,2,18151.6,N,Vol
+4350,27.305,3.445,20.584,debito em conta,via_email,padrao,59,M,S,0,21893.6,N,Vol
+4351,25.592,0.000,46.152,conta_corrente,via_email,desconto internacional,52,M,S,2,78731,N,Current
+4354,14.264,0.000,30.029,conta_corrente,boleto,padrao,95,M,M,2,23764.3,N,Current
+4355,0.000,0.000,3.875,debito em conta,via_email,desconto internacional,29,F,S,1,28504,N,InVol
+4360,2.697,0.000,9.116,cartao_credito,boleto,padrao,62,M,S,2,23715,Y,Current
+4362,6.299,0.000,60.523,cartao_credito,via_email,padrao,46,M,S,1,55634.8,N,Current
+4365,10.667,0.000,233.810,cartao_credito,via_email,padrao,87,F,M,1,12935.2,N,Vol
+4366,29.678,4.221,233.985,debito em conta,via_email,desconto internacional,32,F,M,1,47211.6,Y,Vol
+4367,17.481,0.000,23.774,cartao_credito,via_email,padrao,49,F,M,1,97841.7,N,Vol
+4368,21.451,0.000,55.466,cartao_credito,via_email,padrao,88,F,S,2,94665.2,N,Vol
+4369,4.037,0.000,14.182,debito em conta,via_email,desconto internacional,51,F,M,2,33790.9,N,Vol
+4372,13.363,0.000,167.637,cartao_credito,via_email,padrao,30,F,M,1,82743,N,Current
+4373,25.073,8.533,10.279,conta_corrente,via_email,padrao,59,F,M,0,10384.5,N,Vol
+4375,27.671,0.000,58.947,conta_corrente,via_email,padrao,48,M,M,2,60463.4,Y,Current
+4381,17.517,0.000,47.513,conta_corrente,via_email,padrao,43,M,S,2,57976.7,N,Current
+4383,20.847,0.000,51.874,cartao_credito,boleto,padrao,95,M,M,1,65745.1,N,Current
+4384,8.941,0.986,70.817,debito em conta,boleto,padrao,29,M,M,1,38230.4,N,Current
+4392,0.000,0.000,0.662,cartao_credito,boleto,desconto internacional,92,M,S,0,49551.8,N,InVol
+4396,0.089,0.000,19.907,debito em conta,via_email,desconto internacional,96,M,M,1,48713.6,Y,Current
+4402,19.549,0.000,102.488,conta_corrente,boleto,padrao,34,F,S,1,95986,N,Current
+4403,10.768,0.000,64.624,cartao_credito,boleto,padrao,94,F,M,2,37742,N,Current
+4409,25.590,0.700,49.270,cartao_credito,via_email,padrao,76,F,M,1,349.091,Y,Vol
+4411,11.568,0.000,12.469,conta_corrente,boleto,desconto internacional,60,F,M,2,99488.1,Y,Current
+4413,21.870,0.766,146.386,cartao_credito,via_email,desconto internacional,30,M,M,2,17555.2,N,Current
+4416,17.270,0.000,20.339,cartao_credito,boleto,desconto internacional,83,M,S,2,58580.6,Y,Current
+4427,7.194,0.000,187.505,cartao_credito,boleto,desconto internacional,61,M,M,2,53619.2,N,Current
+4435,24.151,0.000,13.000,cartao_credito,via_email,padrao,27,M,S,1,16712.9,N,Vol
+4442,19.328,0.000,12.215,cartao_credito,via_email,desconto internacional,34,F,M,0,32657.7,N,Current
+4454,22.774,0.000,28.050,debito em conta,via_email,padrao,39,M,M,0,29227.8,N,Current
+4455,23.933,0.000,5.978,cartao_credito,via_email,desconto internacional,87,M,S,0,37882.5,N,Current
+4456,12.340,0.000,80.923,conta_corrente,via_email,padrao,91,F,S,2,69984.1,Y,Vol
+4463,0.736,0.000,8.894,conta_corrente,boleto,desconto internacional,44,M,S,2,11861.4,N,Current
+4466,10.465,0.000,33.158,cartao_credito,boleto,padrao,44,F,S,0,44183.9,Y,Vol
+4471,25.558,0.000,53.203,conta_corrente,boleto,padrao,26,M,S,0,34129.2,Y,Vol
+4486,25.039,0.000,30.891,cartao_credito,via_email,padrao,49,M,S,0,20730.7,N,Current
+4497,29.038,0.000,8.279,cartao_credito,via_email,padrao,56,M,M,1,7330.68,Y,Current
+4501,24.003,0.000,61.280,conta_corrente,via_email,padrao,96,M,M,1,50290.7,N,Current
+4509,15.281,1.843,49.510,debito em conta,via_email,padrao,77,M,S,0,81875.8,N,Current
+4514,0.000,0.000,4.009,debito em conta,boleto,padrao,27,F,S,2,3353.28,Y,InVol
+4518,7.385,0.000,6.804,cartao_credito,boleto,padrao,52,F,S,0,52963.3,Y,Vol
+4519,8.277,0.000,7.922,debito em conta,via_email,desconto internacional,78,M,M,2,92731.3,Y,Current
+4525,5.986,7.960,85.210,cartao_credito,boleto,padrao,42,M,M,0,4324.22,N,Vol
+4526,21.717,7.865,80.607,cartao_credito,boleto,padrao,63,M,S,0,90335.6,Y,Vol
+4536,12.063,0.000,22.053,debito em conta,via_email,desconto internacional,28,M,M,1,10385.3,N,Vol
+4539,0.825,0.000,103.010,cartao_credito,boleto,padrao,90,F,M,1,60034.9,Y,Current
+4540,15.206,0.000,22.145,cartao_credito,via_email,desconto internacional,70,F,M,1,37521.4,N,Current
+4544,11.394,0.000,103.068,cartao_credito,via_email,desconto internacional,68,M,S,0,3409.01,N,Current
+4546,1.568,0.000,153.823,cartao_credito,boleto,padrao,40,F,S,1,16463,Y,Vol
+4548,20.621,0.095,69.552,cartao_credito,via_email,padrao,31,M,S,1,28464,Y,Current
+4549,24.818,0.000,79.349,cartao_credito,via_email,padrao,25,F,S,1,7320.73,N,Vol
+4551,18.225,0.000,122.350,cartao_credito,boleto,padrao,28,M,M,0,96563.5,Y,Current
+4552,10.255,1.936,145.072,cartao_credito,via_email,padrao,54,F,S,0,60774.6,N,Vol
+4558,9.492,1.697,32.166,debito em conta,boleto,padrao,44,M,M,1,36638.2,N,Vol
+4564,27.437,0.000,10.943,debito em conta,via_email,padrao,39,F,S,2,51662.2,N,Current
+4565,21.413,7.616,66.787,cartao_credito,via_email,desconto internacional,69,M,M,0,67108.3,Y,Vol
+4567,0.000,0.000,2.708,conta_corrente,boleto,padrao,42,F,M,1,82666.3,N,InVol
+4570,0.000,0.000,0.267,conta_corrente,via_email,padrao,77,M,M,0,26266.3,Y,InVol
+4571,23.619,0.000,84.728,cartao_credito,boleto,padrao,29,M,M,2,21288.3,N,Vol
+4584,27.704,0.000,39.172,cartao_credito,boleto,padrao,78,M,S,0,59699.8,N,Current
+4587,7.949,0.000,118.236,debito em conta,via_email,padrao,87,F,S,0,20409,Y,Vol
+4589,17.093,0.000,48.975,conta_corrente,via_email,padrao,27,M,M,0,85079.5,N,Current
+4590,16.696,0.000,71.684,cartao_credito,via_email,padrao,63,M,M,2,31282.8,Y,Current
+4592,6.250,0.000,72.560,debito em conta,boleto,padrao,26,F,M,0,57372.4,Y,Current
+4602,24.948,0.000,29.110,cartao_credito,boleto,padrao,89,F,S,2,27492.2,N,Vol
+4604,18.572,0.000,56.663,conta_corrente,via_email,padrao,73,M,M,0,19654.9,N,Current
+4605,23.719,0.000,186.103,cartao_credito,boleto,padrao,84,F,M,2,23684.1,N,Current
+4607,9.266,0.000,53.371,conta_corrente,via_email,desconto internacional,73,M,M,2,7010.68,N,Current
+4612,25.291,0.000,46.731,conta_corrente,boleto,padrao,84,F,M,0,87840.6,Y,Vol
+4613,9.872,0.000,33.067,cartao_credito,boleto,padrao,45,M,M,2,23695.6,N,Current
+4614,17.275,0.000,8.986,cartao_credito,boleto,padrao,24,F,M,1,33065,N,Vol
+4619,14.291,0.000,64.328,cartao_credito,via_email,padrao,32,M,M,2,24176.8,Y,Current
+4622,25.464,0.000,43.912,debito em conta,boleto,desconto internacional,46,M,M,0,10689.4,N,Current
+4628,5.518,0.000,16.052,cartao_credito,boleto,padrao,18,M,S,2,19546.6,N,Current
+4630,0.000,0.000,0.282,cartao_credito,boleto,desconto internacional,85,M,S,0,8372.23,Y,InVol
+4632,23.130,5.602,96.177,conta_corrente,via_email,padrao,65,M,M,1,82783.8,Y,Current
+4633,0.000,0.000,3.266,cartao_credito,via_email,desconto internacional,54,F,M,2,1370.08,N,InVol
+4634,2.826,0.000,40.246,cartao_credito,boleto,desconto internacional,49,M,S,1,29894.4,N,Current
+4637,19.428,0.000,91.787,cartao_credito,boleto,padrao,63,M,S,2,39753.3,N,Current
+4644,26.120,9.527,37.886,conta_corrente,via_email,padrao,54,F,S,1,11659.5,Y,Vol
+4645,14.573,0.000,38.225,conta_corrente,via_email,padrao,25,M,S,2,56861.8,N,Current
+4647,21.351,0.000,45.707,cartao_credito,boleto,desconto internacional,70,F,S,0,87788.7,Y,Vol
+4654,3.306,0.000,36.696,conta_corrente,via_email,padrao,97,F,M,0,50290.7,N,Vol
+4656,25.926,0.000,77.292,cartao_credito,via_email,padrao,82,F,M,1,77265.5,N,Vol
+4658,12.562,0.000,73.288,conta_corrente,via_email,padrao,69,F,S,2,67773.9,N,Current
+4660,27.453,0.000,8.164,cartao_credito,via_email,padrao,20,M,S,1,87491,N,Current
+4662,2.804,0.000,69.793,cartao_credito,boleto,padrao,38,M,M,0,94002.6,N,Current
+4663,23.501,4.916,59.850,cartao_credito,boleto,padrao,21,F,M,0,64236.8,N,Vol
+4668,5.136,0.000,44.807,cartao_credito,via_email,desconto internacional,20,F,M,2,3628.78,N,Current
+4672,7.269,0.000,9.429,conta_corrente,boleto,padrao,94,M,S,2,22685.3,Y,Current
+4682,23.257,0.000,19.188,cartao_credito,boleto,desconto internacional,26,M,S,2,14785.7,N,Vol
+4684,13.301,7.382,38.694,cartao_credito,via_email,padrao,65,F,M,1,23947.8,N,Vol
+4687,16.976,4.754,97.022,cartao_credito,via_email,padrao,64,M,M,1,43644.7,Y,Current
+4688,0.493,0.000,51.831,cartao_credito,boleto,padrao,49,M,M,0,11131.6,Y,Current
+4690,4.802,8.004,13.245,cartao_credito,via_email,padrao,74,M,M,1,60933.9,N,Vol
+4691,28.954,0.000,19.058,cartao_credito,boleto,padrao,50,F,S,2,21396.2,Y,Vol
+4694,0.000,0.000,4.322,conta_corrente,boleto,padrao,90,M,S,2,42504.3,N,InVol
+4699,20.570,0.000,39.642,cartao_credito,boleto,desconto internacional,48,M,M,1,23668.2,Y,Current
+4700,27.084,0.000,15.143,cartao_credito,via_email,padrao,94,M,M,2,49022.9,N,Current
+4704,0.000,0.000,1.181,debito em conta,boleto,desconto internacional,87,M,S,1,85705.8,N,Current
+4713,0.000,0.000,0.829,debito em conta,via_email,padrao,75,F,M,2,49561,N,Vol
+4715,19.653,0.000,7.978,cartao_credito,via_email,padrao,48,F,S,1,79129.2,N,Vol
+4716,0.000,0.000,3.993,conta_corrente,via_email,padrao,94,F,M,2,14519.1,N,InVol
+4717,19.261,0.000,52.781,cartao_credito,boleto,padrao,30,F,M,1,17866.9,N,Current
+4720,5.725,0.000,404.415,cartao_credito,boleto,padrao,67,F,S,1,91347.1,N,Vol
+4722,28.046,0.000,66.646,cartao_credito,boleto,desconto internacional,20,M,S,1,44469.6,Y,Current
+4724,15.933,2.211,73.073,debito em conta,via_email,desconto internacional,68,F,M,0,73728.3,N,Vol
+4725,0.000,0.000,4.109,conta_corrente,via_email,padrao,18,M,S,2,37443.6,N,InVol
+4727,2.707,0.000,115.744,debito em conta,boleto,padrao,53,F,M,2,64546.4,Y,Current
+4728,20.214,0.000,7.257,cartao_credito,via_email,desconto internacional,23,M,S,1,84217.7,Y,Current
+4735,29.710,5.312,202.438,cartao_credito,boleto,padrao,47,F,M,1,63778.3,Y,Vol
+4738,0.000,0.000,3.806,cartao_credito,via_email,padrao,25,F,M,1,10107.7,Y,Vol
+4743,27.899,0.000,6.579,cartao_credito,boleto,desconto internacional,19,F,M,1,73089.7,Y,Current
+4746,19.285,0.000,59.472,cartao_credito,boleto,padrao,23,F,S,1,63712.1,N,Current
+4749,12.562,0.000,53.439,cartao_credito,via_email,padrao,36,M,S,1,35381.6,N,Current
+4752,21.917,0.000,12.640,cartao_credito,boleto,padrao,48,M,M,0,39598.7,N,Current
+4754,11.022,0.000,49.895,cartao_credito,boleto,desconto internacional,20,F,S,2,23671.6,N,Vol
+4757,9.791,0.000,13.664,debito em conta,via_email,padrao,21,F,M,0,77210.6,N,Current
+4762,10.824,0.000,36.745,debito em conta,via_email,padrao,61,M,S,2,66026,N,Current
+4767,0.460,0.000,164.820,cartao_credito,boleto,padrao,51,F,M,2,32118.4,N,Vol
+4771,20.125,0.000,92.634,cartao_credito,boleto,desconto internacional,56,M,S,2,86258.6,N,Current
+4772,14.645,0.000,11.206,cartao_credito,via_email,padrao,48,F,M,2,85246.6,N,Vol
+4778,4.430,0.000,16.355,cartao_credito,via_email,padrao,29,M,M,2,98734.7,N,Current
+4779,6.261,0.000,43.967,cartao_credito,boleto,padrao,70,F,S,0,61639.7,N,Vol
+4780,15.997,3.054,32.486,cartao_credito,boleto,desconto internacional,93,M,S,1,14258.4,Y,Vol
+4784,22.617,0.000,40.344,cartao_credito,boleto,padrao,85,F,S,1,23657.4,N,Vol
+4791,10.260,0.000,163.848,cartao_credito,via_email,padrao,86,F,S,0,99514.6,Y,Vol
+4792,24.836,0.000,81.982,conta_corrente,boleto,padrao,44,F,M,2,92285.4,N,Current
+4798,15.745,0.000,71.431,conta_corrente,boleto,padrao,82,M,M,0,40551,Y,Current
+4801,2.769,0.000,9.364,cartao_credito,via_email,padrao,45,M,M,0,70239.8,N,Current
+4802,19.369,0.000,121.684,conta_corrente,via_email,desconto internacional,59,F,M,0,29953.1,N,Vol
+4807,15.075,0.000,108.435,cartao_credito,boleto,padrao,50,M,M,0,19231.2,N,Current
+4808,13.458,0.000,15.106,cartao_credito,via_email,desconto internacional,94,M,M,0,50290.7,N,Current
+4811,1.523,0.000,62.192,cartao_credito,via_email,padrao,56,M,M,2,46165.2,N,Current
+4812,26.951,0.000,29.968,cartao_credito,boleto,padrao,55,F,S,0,54844.2,Y,Vol
+4815,5.388,0.000,91.069,debito em conta,boleto,padrao,94,F,M,1,66755.6,N,Vol
+4817,8.332,7.094,17.406,cartao_credito,via_email,padrao,56,M,S,1,92798.9,N,Current
+4820,0.000,0.000,0.660,conta_corrente,via_email,padrao,49,F,M,0,68828.4,Y,Vol
+4821,6.996,0.000,36.011,conta_corrente,boleto,padrao,57,M,M,1,77149.1,N,Current
+4823,11.968,0.000,124.638,cartao_credito,via_email,desconto internacional,70,M,M,1,42211.8,N,Current
+4824,9.506,0.000,103.275,cartao_credito,boleto,padrao,89,M,M,0,91655.8,N,Current
+4825,10.571,0.000,40.511,cartao_credito,boleto,padrao,18,M,M,0,77293.3,Y,Current
+4828,13.104,0.000,33.698,cartao_credito,via_email,desconto internacional,65,F,M,1,62751.3,N,Vol
+4830,17.471,0.000,63.649,cartao_credito,boleto,desconto internacional,41,F,M,1,43563.4,N,Vol
+4832,27.544,0.000,33.825,debito em conta,boleto,desconto internacional,61,F,M,1,79685,N,Vol
+4837,14.818,0.000,99.519,conta_corrente,via_email,padrao,83,M,S,1,65867.1,N,Current
+4838,18.792,0.000,45.626,cartao_credito,boleto,padrao,48,M,M,1,75818.9,N,Current
+4839,1.155,0.094,77.715,debito em conta,via_email,desconto internacional,34,M,S,0,49728.7,N,Current
+4853,23.494,0.000,41.388,cartao_credito,via_email,desconto internacional,60,M,M,0,20953.2,N,Current
+4857,10.981,9.574,65.032,cartao_credito,boleto,padrao,64,F,M,2,56412.5,N,Vol
+4859,25.152,0.000,62.761,conta_corrente,via_email,padrao,63,F,S,2,25200.8,N,Current
+4861,25.141,0.000,88.043,cartao_credito,boleto,desconto internacional,56,M,S,2,61417.3,Y,Current
+4863,2.157,0.000,226.998,cartao_credito,boleto,desconto internacional,41,F,M,1,47916.3,N,Vol
+4870,16.842,0.000,40.160,cartao_credito,via_email,desconto internacional,41,F,M,0,45103.4,N,Current
+4874,11.867,0.000,20.855,conta_corrente,boleto,padrao,25,M,M,0,94451.7,Y,Current
+4875,1.339,0.000,23.773,cartao_credito,boleto,padrao,85,M,S,0,57933.1,Y,Current
+4880,18.898,0.000,33.316,cartao_credito,boleto,padrao,95,M,M,0,585.791,N,Current
+4886,13.227,0.000,26.881,conta_corrente,boleto,padrao,70,M,M,1,76837.4,N,Current
+4888,21.065,0.000,8.956,conta_corrente,boleto,padrao,20,M,M,2,66312.2,Y,Current
+4895,5.274,0.000,59.668,cartao_credito,via_email,desconto internacional,74,M,S,0,2825.56,N,Current
+4896,2.542,0.000,52.652,cartao_credito,boleto,desconto internacional,65,F,M,0,10391.1,N,Vol
+4897,23.706,0.000,17.414,debito em conta,boleto,desconto internacional,59,M,M,2,40637.4,N,Current
+4898,11.681,0.000,51.920,conta_corrente,boleto,desconto internacional,57,M,M,2,66634.9,N,Current
+4907,21.011,0.000,37.849,conta_corrente,boleto,padrao,37,F,M,2,53162.2,Y,Current
+4914,3.132,0.000,25.058,cartao_credito,boleto,padrao,63,F,M,2,84342.2,N,Current
+4917,23.133,0.000,21.703,cartao_credito,boleto,padrao,85,M,S,2,96929.8,N,Current
+4921,14.251,0.000,116.073,debito em conta,via_email,padrao,55,M,M,1,86537.4,Y,Current
+4923,11.703,0.000,13.943,conta_corrente,via_email,desconto internacional,54,M,S,0,84754.4,N,Current
+4924,0.000,0.000,0.364,cartao_credito,via_email,padrao,25,M,M,0,4545.11,N,InVol
+4927,28.796,4.918,89.465,debito em conta,via_email,padrao,67,M,M,0,81360.6,N,Vol
+4929,18.876,0.000,105.811,cartao_credito,boleto,padrao,82,F,M,2,89270.4,N,Current
+4935,6.312,0.000,32.496,cartao_credito,boleto,padrao,53,M,M,2,50290.7,N,Current
+4936,27.438,6.662,39.697,cartao_credito,via_email,padrao,81,F,M,2,94159.9,N,Vol
+4937,1.192,0.000,22.607,debito em conta,via_email,padrao,81,M,M,2,57898.5,N,Current
+4940,20.797,0.000,11.991,debito em conta,boleto,padrao,42,F,M,1,62126.4,Y,Vol
+4941,26.729,0.000,57.167,cartao_credito,boleto,padrao,76,M,S,1,57091.6,Y,Current
+4943,5.398,8.137,26.165,conta_corrente,boleto,padrao,63,M,S,1,75826.6,N,Vol
+4945,1.261,0.000,103.458,cartao_credito,boleto,padrao,82,F,S,0,8604.64,N,Vol
+4947,25.522,0.000,102.531,cartao_credito,boleto,desconto internacional,50,M,M,0,73210.8,Y,Current
+4950,27.624,6.711,35.014,debito em conta,via_email,padrao,81,F,S,2,87872.9,Y,Vol
+4951,21.795,0.000,26.081,debito em conta,boleto,desconto internacional,21,M,M,0,63671.3,Y,Current
+4952,9.889,0.000,53.088,cartao_credito,via_email,padrao,59,F,M,0,91427.2,N,Vol
+4954,0.000,0.000,1.214,cartao_credito,via_email,padrao,20,F,M,2,84629.3,Y,InVol
+4955,25.672,0.000,25.946,conta_corrente,boleto,padrao,86,M,M,2,88392,N,Current
+4956,24.027,0.000,129.429,cartao_credito,boleto,desconto internacional,90,M,S,0,8513.14,N,Current
+4957,2.047,0.000,98.619,conta_corrente,via_email,desconto internacional,63,M,S,2,16472.4,N,Current
+4959,0.000,0.000,1.687,cartao_credito,boleto,padrao,28,M,M,2,43053,N,InVol
+4962,19.652,0.000,146.405,cartao_credito,via_email,padrao,80,F,M,2,83890.7,N,Current
+4963,13.960,0.000,27.690,cartao_credito,boleto,desconto internacional,34,M,S,2,9229.55,N,Current
+4965,14.770,0.000,63.901,cartao_credito,boleto,padrao,56,F,M,0,58641.2,N,Current
+4969,12.516,0.000,64.464,cartao_credito,via_email,padrao,37,F,M,2,11947.3,N,Current
+4977,14.674,6.332,15.922,cartao_credito,boleto,padrao,69,F,S,0,86735.5,N,Current
+4980,20.297,0.000,40.815,debito em conta,boleto,desconto internacional,86,F,M,1,44773.7,Y,Vol
+4981,15.811,3.054,45.117,cartao_credito,boleto,padrao,35,M,M,2,18345.3,Y,Vol
+4985,16.356,0.000,26.878,cartao_credito,boleto,desconto internacional,84,M,M,0,94243.8,N,Current
+4987,28.556,0.000,14.043,cartao_credito,via_email,desconto internacional,38,F,M,2,84653.1,Y,Current
+4991,0.000,0.000,0.731,cartao_credito,boleto,padrao,75,F,M,0,41138.2,N,InVol
+4993,0.000,0.000,1.107,cartao_credito,boleto,padrao,95,F,S,2,52997.5,Y,Vol
+4996,9.082,7.040,13.040,conta_corrente,boleto,padrao,70,F,M,1,85192.9,Y,Vol
+4998,22.622,0.000,25.763,cartao_credito,via_email,padrao,37,M,M,0,11693.3,N,Current
+4999,21.520,0.000,19.190,cartao_credito,boleto,desconto internacional,41,M,M,0,59898.4,N,Current
